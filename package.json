@@ -1,8 +1,8 @@
 {
-    "title": "Freelancer",
-    "name": "startbootstrap-freelancer",
-    "version": "4.0.0",
-    "description": "A freelancer portfolio HTML theme for Bootstrap.",
+    "title": "Acmw",
+    "name": "Acmw at Ohio State",
+    "version": "1.0.0",
+    "description": "ACMW's website.",
     "keywords": [
         "css",
         "sass",
@@ -12,18 +12,10 @@
         "template"
     ],
     "homepage": "https://startbootstrap.com/template-overviews/freelancer",
-    "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-freelancer/issues",
-        "email": "feedback@startbootstrap.com"
-    },
-    "license": "MIT",
-    "author": "Start Bootstrap",
-    "contributors": [
-        "David Miller (http://davidmiller.io/)"
-    ],
+    "author": "ACMW",
     "repository": {
         "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-freelancer.git"
+        "url": "https://github.com/noramyer/acmw.git"
     },
     "dependencies": {
         "bootstrap": "4.0.0",
