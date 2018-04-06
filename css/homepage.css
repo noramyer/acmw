@@ -186,8 +186,8 @@ header.masthead h2 {
     padding-bottom: 6rem;
   }
   header.masthead h1 {
-    font-size: 4.75em;
-    line-height: 4rem;
+    font-size: 3em;
+    line-height: 3rem;
   }
   header.masthead h2 {
     font-size: 1.75em;
@@ -381,4 +381,19 @@ a:focus, a:hover, a:active {
 .btn-secondary:hover, .btn-secondary:focus, .btn-secondary:active {
   background-color: #322c49;
   border-color: #322c49;
+}
+.subheader {
+    margin-bottom: 2rem;
+}
+
+.subheader-text {
+  padding: 10px;
+}
+.subheader-border {
+    margin-bottom: 2rem;
+    border-bottom: 1px solid #322c49;
+}
+
+.center-list {
+  justify-content: center;
 }
