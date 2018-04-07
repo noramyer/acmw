@@ -396,6 +396,7 @@ a:focus, a:hover, a:active {
 
 .event-square {
   background-color: #322c49;
+  flex: 1;
 }
 
 .event-square-text-container {
@@ -403,6 +404,11 @@ a:focus, a:hover, a:active {
   align-items: center;
   margin: 40px 15px;
   color: #fff;
+}
+
+.fixed-box {
+  height: 300px;
+  width: 200px;
 }
 
 .center-list {
