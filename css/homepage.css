@@ -394,6 +394,17 @@ a:focus, a:hover, a:active {
     border-bottom: 1px solid #322c49;
 }
 
+.event-square {
+  background-color: #322c49;
+}
+
+.event-square-text-container {
+  justify-content: center;
+  align-items: center;
+  margin: 40px 15px;
+  color: #fff;
+}
+
 .center-list {
   justify-content: center;
 }
