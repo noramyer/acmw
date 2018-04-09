@@ -449,3 +449,12 @@ a:focus, a:hover, a:active {
 .center-list {
   justify-content: center;
 }
+
+.d3-caption {
+  font-size: 1em;
+  padding: 20px;
+}
+
+.data-header {
+  margin-bottom: 30px;
+}

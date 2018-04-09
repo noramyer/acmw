@@ -28,7 +28,7 @@
 
   <body id="page-top">
     <script src="https://d3js.org/d3.v4.min.js"></script>
-
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.min.js"></script>
 
     <!-- Navigation -->
     <nav class="navbar navbar-expand-lg bg-secondary fixed-top text-uppercase" id="mainNav">
@@ -65,20 +65,45 @@
     <section class="data collision-bubbles">
       <div class="d-flex collision-bubbles-item" id="collision-bubbles-container">
       </div>
+      <div class="container col-md-8 col-lg-10">
+        <p class="d3-caption text-center">Each dot represents 5 students studying CSE at Ohio State.</p>
+      </div>
       <div class="container col-md-3 col-lg-4">
         <h3 class="font-weight-light mb-0 text-center">Gender breakdown</h3>
-        <p class="lead">Each dot represents 5 students studying CSE at Ohio State, and currently only 14% of those are women. ACM-W is an inclusive
+        <p class="lead">Currently only 14% of Ohio State CSE students are women. ACM-W is an inclusive
         group of students aiming to encourage, support, and engage women in tech at OSU and in the local community.</p>
       </div>
     </section>
 
+    <!-- Where we work -->
+
     <section class="data collision-bubbles">
       <div class="d-flex collision-bubbles-item" id="bubble-chart-container">
       </div>
+      <div class="container col-md-8 col-lg-10">
+        <p class="d3-caption text-center">Bubble size corresponds to number of members who have worked there.</p>
+      </div>
       <div class="container col-md-3 col-lg-4">
-        <h3 class="font-weight-light mb-0 text-center">Gender breakdown</h3>
-        <p class="lead">Each dot represents 5 students studying CSE at Ohio State, and currently only 14% of those are women. ACM-W is an inclusive
-        group of students aiming to encourage, support, and engage women in tech at OSU and in the local community.</p>
+        <h3 class="font-weight-light mb-0 text-center">Where we work</h3>
+        <p class="lead">Members of ACM-W have interned all across the country at top companies such as Google, Facebook, Microsoft, and Amazon.
+          Feel free to reach out to us for access to our resume bank if you're a company interested in getting to know us.</p>
+      </div>
+    </section>
+
+    <!-- GHC section -->
+
+    <section class="bg-primary text-white mb-0" id="grace hopper">
+      <div class="container">
+        <h2 class="data-header text-center text-uppercase text-white">Grace Hopper</h2>
+        <div class="row">
+          <div class="col-lg-4 ml-auto">
+            <p class="lead">Last year, we sent Z girls to the Grace Hopper Conference. A large majority of those were able to attend on scholarships. </p>
+            <p class="lead">Collectively our group received X interviews with Y different companies from the conference. </p>
+          </div>
+          <div class="col-lg-4 mr-auto">
+            <canvas id="doughnut-chart"></canvas>
+          </div>
+        </div>
       </div>
     </section>
 
@@ -155,7 +180,7 @@
 
     <script src="js/d3/collisionBubbles.js"></script>
 
-    <script src="js/d3/bubbleChart.js"></script>
+    <script src="js/ghc-doughnut.js"></script>
 
   </body>
 
