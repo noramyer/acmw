@@ -67,11 +67,11 @@ Women's Chapter</h1>
     </header>
 
     <!-- Portfolio Grid Section -->
-    <section class="portfolio" id="portfolio">
+    <section class="portfolio" id="event-squares">
       <div class="container">
         <h2 class="text-center text-uppercase text-secondary mb-0">Events</h2>
         <hr class="star-dark mb-5">
-        <div class="row">
+        <div class="row" id="event-squares">
           <div class="d-flex col-md-6 col-lg-4">
             <a class="event-square portfolio-item d-block mx-auto" href="#portfolio-modal-1">
               <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
@@ -80,9 +80,9 @@ Women's Chapter</h1>
                 </div>
               </div>
               <div class="d-flex flex-column event-square-text-container">
-                <h5 class="text-center font-weight-light mb-0">Facebook Networking</h5>
-                <p class="lead text-center">May 10th, 2018
-                <br>7-8pm Baker 198</p>
+                <h5 class="text-center font-weight-light mb-0" id="event-header-1"></h5>
+                <p class="lead text-center" id="event-desc-1"></p>
+                <p class="lead text-center" id="event-desc-time-and-place-1"></p>
               </div>
             </a>
           </div>
@@ -94,9 +94,9 @@ Women's Chapter</h1>
                 </div>
               </div>
               <div class="d-flex flex-column event-square-text-container">
-                <h5 class="text-center font-weight-light mb-0">CapTech</h5>
-                <p class="lead text-center">April 4th, 2018
-                <br>7-8pm Baker 198</p>
+                <h5 class="text-center font-weight-light mb-0" id="event-header-2"></h5>
+                <p class="lead text-center" id="event-desc-2"></p>
+                <p class="lead text-center" id="event-desc-time-and-place-2"></p>
               </div>
             </a>
           </div>
@@ -108,23 +108,23 @@ Women's Chapter</h1>
                 </div>
               </div>
               <div class="d-flex flex-column event-square-text-container">
-                <h5 class="text-center font-weight-light mb-0">buck-i-code</h5>
-                <p class="lead text-center">March 31st, 2018
-                <br>10am-2pm Dreese Lab</p>
+                <h5 class="text-center font-weight-light mb-0" id="event-header-3"></h5>
+                <p class="lead text-center" id="event-desc-3"></p>
+                <p class="lead text-center" id="event-desc-time-and-place-3"></p>
               </div>
             </a>
           </div>
-          <div class="col-md-6 col-lg-4">
-            <a class="d-flex event-square portfolio-item d-block mx-auto" href="#portfolio-modal-4">
+          <div class="d-flex col-md-6 col-lg-4">
+            <a class="event-square portfolio-item d-block mx-auto" href="#portfolio-modal-4">
               <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
                 <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
                   <i class="fa fa-search-plus fa-3x"></i>
                 </div>
               </div>
               <div class="d-flex flex-column event-square-text-container">
-                <h5 class="text-center font-weight-light mb-0">GHC + Exec Board Info Session</h5>
-                <p class="lead text-center">March 28th, 2018
-                <br>7-8pm Baker 198</p>
+                <h5 class="text-center font-weight-light mb-0" id="event-header-4"></h5>
+                <p class="lead text-center" id="event-desc-4"></p>
+                <p class="lead text-center" id="event-desc-time-and-place-4"></p>
               </div>
             </a>
           </div>
@@ -136,14 +136,14 @@ Women's Chapter</h1>
                 </div>
               </div>
               <div class="d-flex flex-column event-square-text-container">
-                <h5 class="text-center font-weight-light mb-0">Caterpillar: Data Analytics</h5>
-                <p class="lead text-center">March 27th, 2018
-                <br>5:45-6:45pm Schoenbaum 220</p>
+                <h5 class="text-center font-weight-light mb-0" id="event-header-5"></h5>
+                <p class="lead text-center" id="event-desc-5"></p>
+                <p class="lead text-center" id="event-desc-time-and-place-5"></p>
               </div>
             </a>
           </div>
           <div class="d-flex col-md-6 col-lg-4">
-            <a class="event-square portfolio-item d-block mx-auto" href="#portfolio-modal-6">
+            <a class="event-square portfolio-item d-block mx-auto" href="all-events.html">
               <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
                 <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
                   <i class="fa fa-search-plus fa-3x"></i>
@@ -311,10 +311,11 @@ List.</a></p>
         <div class="container text-center">
           <div class="row">
             <div class="col-lg-8 mx-auto">
-              <h2 class="text-secondary text-uppercase mb-0">Facebook Networking</h2>
+              <h2 class="text-secondary text-uppercase mb-0" id="modal-header-1"></h2>
+              <h4 class="mb-5" id="modal-subheader-1"></h4>
               <hr class="star-dark mb-5">
-              <img class="img-fluid mb-5" src="img/portfolio/cabin.png" alt="">
-              <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+              <img class="img-fluid mb-5" id="modal-image-1" src="" alt="">
+              <p class="mb-5" id="modal-desc-1"></p>
               <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
                 <i class="fa fa-close"></i>
                 Close Project</a>
@@ -333,14 +334,14 @@ List.</a></p>
         <div class="container text-center">
           <div class="row">
             <div class="col-lg-8 mx-auto">
-              <h2 class="text-secondary text-uppercase mb-0">CapTech</h2>
-              <h4 class="mb-5">April 4th, 2018 | 7-8pm Baker 198</h4>
+              <h2 class="text-secondary text-uppercase mb-0" id="modal-header-2"></h2>
+              <h4 class="mb-5" id="modal-subheader-2"></h4>
               <hr class="star-dark mb-5">
-              <img class="img-fluid mb-5" src="img/portfolio/cake.png" alt="">
-              <p class="mb-5">Come join CapTech and ACM-W as representatives from the company talk about what it's like to work as a developer for a consulting company. Also learn about internships and full-time opportunities and be sure to bring a resume!</p>
+              <img class="img-fluid mb-5" id="modal-image-2" src="" alt="">
+              <p class="mb-5" id="modal-desc-2"></p>
               <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
                 <i class="fa fa-close"></i>
-                Close Event</a>
+                Close Project</a>
             </div>
           </div>
         </div>
@@ -356,10 +357,11 @@ List.</a></p>
         <div class="container text-center">
           <div class="row">
             <div class="col-lg-8 mx-auto">
-              <h2 class="text-secondary text-uppercase mb-0">Project Name</h2>
+              <h2 class="text-secondary text-uppercase mb-0" id="modal-header-3"></h2>
+              <h4 class="mb-5" id="modal-subheader-3"></h4>
               <hr class="star-dark mb-5">
-              <img class="img-fluid mb-5" src="img/portfolio/circus.png" alt="">
-              <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+              <img class="img-fluid mb-5" id="modal-image-3" src="" alt="">
+              <p class="mb-5" id="modal-desc-3"></p>
               <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
                 <i class="fa fa-close"></i>
                 Close Project</a>
@@ -378,10 +380,11 @@ List.</a></p>
         <div class="container text-center">
           <div class="row">
             <div class="col-lg-8 mx-auto">
-              <h2 class="text-secondary text-uppercase mb-0">Project Name</h2>
+              <h2 class="text-secondary text-uppercase mb-0" id="modal-header-4"></h2>
+              <h4 class="mb-5" id="modal-subheader-4"></h4>
               <hr class="star-dark mb-5">
-              <img class="img-fluid mb-5" src="img/portfolio/game.png" alt="">
-              <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+              <img class="img-fluid mb-5" id="modal-image-4" src="" alt="">
+              <p class="mb-5" id="modal-desc-4"></p>
               <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
                 <i class="fa fa-close"></i>
                 Close Project</a>
@@ -400,32 +403,11 @@ List.</a></p>
         <div class="container text-center">
           <div class="row">
             <div class="col-lg-8 mx-auto">
-              <h2 class="text-secondary text-uppercase mb-0">Project Name</h2>
+              <h2 class="text-secondary text-uppercase mb-0" id="modal-header-5"></h2>
+              <h4 class="mb-5" id="modal-subheader-5"></h4>
               <hr class="star-dark mb-5">
-              <img class="img-fluid mb-5" src="img/portfolio/safe.png" alt="">
-              <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
-              <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
-                <i class="fa fa-close"></i>
-                Close Project</a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <!-- Portfolio Modal 6 -->
-    <div class="portfolio-modal mfp-hide" id="portfolio-modal-6">
-      <div class="portfolio-modal-dialog bg-white">
-        <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
-          <i class="fa fa-3x fa-times"></i>
-        </a>
-        <div class="container text-center">
-          <div class="row">
-            <div class="col-lg-8 mx-auto">
-              <h2 class="text-secondary text-uppercase mb-0">Project Name</h2>
-              <hr class="star-dark mb-5">
-              <img class="img-fluid mb-5" src="img/portfolio/submarine.png" alt="">
-              <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+              <img class="img-fluid mb-5" id="modal-image-5" src="" alt="">
+              <p class="mb-5" id="modal-desc-5"></p>
               <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
                 <i class="fa fa-close"></i>
                 Close Project</a>
@@ -448,6 +430,9 @@ List.</a></p>
 
     <!-- Custom scripts for this template -->
     <script src="js/freelancer.js"></script>
+
+    <script src="js/processEvents.js"></script>
+
 
   </body>
 
