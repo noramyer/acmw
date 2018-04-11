@@ -67,6 +67,10 @@ section h2 {
     line-height: 2.5rem;
   }
 }
+section.masthead {
+  padding-top: calc(6rem + 72px);
+  padding-bottom: 6rem;
+}
 
 section.data {
   padding: 10px;
@@ -457,4 +461,45 @@ a:focus, a:hover, a:active {
 
 .data-header {
   margin-bottom: 30px;
+}
+
+.portfolio .events-all-item {
+  position: relative;
+  display: block;
+  max-width: 25rem;
+  margin-bottom: 15px;
+}
+
+.portfolio .events-all-item .events-all-item-caption {
+  -webkit-transition: all ease 0.5s;
+  -moz-transition: all ease 0.5s;
+  transition: all ease 0.5s;
+  opacity: 0;
+  background-color: rgba(153, 150, 212, .9);
+}
+
+.portfolio .events-all-item .events-all-item-caption:hover {
+  opacity: 1;
+}
+
+.portfolio .events-all-item .events-all-item-caption .events-all-item-caption-content {
+  font-size: 1.5rem;
+}
+
+@media (min-width: 576px) {
+  .portfolio {
+    margin-bottom: -30px;
+  }
+  .portfolio .events-all-item {
+    margin-bottom: 30px;
+  }
+}
+
+.event-link {
+  color: #fff;
+}
+
+.event-name {
+  font-size: 2rem;
+  color: #322c49;
 }
