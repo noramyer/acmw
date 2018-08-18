@@ -56,6 +56,14 @@ section {
   padding: 6rem 0;
 }
 
+.how-to-join-section {
+  padding: 2rem 0 6rem;
+}
+
+.how-to-join-section img {
+  padding-right: 40px;
+}
+
 section h2 {
   font-size: 2.25rem;
   line-height: 2rem;
@@ -112,6 +120,10 @@ section.data h2 {
   height: 3.5rem;
   background-color: rgba(33, 37, 41, 0.5);
   line-height: 3.1rem;
+}
+
+.how-to-join-text {
+  font-size: 1.5rem;
 }
 
 #mainNav {
