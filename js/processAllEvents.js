@@ -15,7 +15,7 @@ link = function(url, text, icon){
   return anchor;
 }
 
-var eventsURL = "https://raw.githubusercontent.com/ACMWOSU/ACMWOSU.github.io/master/js/events.json";
+var eventsURL = "https://raw.githubusercontent.com/ACMWOSU/acmw/master/json/events.json";
 
 $.getJSON(eventsURL)
   .done(function(data){//On successful import populate the page
