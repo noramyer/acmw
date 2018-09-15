@@ -1,4 +1,4 @@
-var eventsURL = "https://raw.githubusercontent.com/ACMWOSU/ACMWOSU.github.io/master/js/events.json";
+var eventsURL = "https://raw.githubusercontent.com/ACMWOSU/acmwosu.github.io/master/json/events.json";
 
 $.getJSON(eventsURL)
   .done(function(data){//On successful import populate the page
@@ -10,7 +10,6 @@ $.getJSON(eventsURL)
 
 function jsonRetrieveError(err){
   var upcoming = document.getElementById('event-squares');
-  upcoming.innerHTML = "Error retrieving JSON. Please contact the webmaster"
   console.log("Request to '"+eventsURL+"' failed. Error: "+err);
 }
 
