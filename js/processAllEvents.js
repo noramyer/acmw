@@ -27,7 +27,6 @@ $.getJSON(eventsURL)
 
 function jsonRetrieveError(err){
   var upcoming = document.getElementById('upcoming');
-  upcoming.innerHTML = "Error retrieving JSON. Please contact the webmaster"
   console.log("Request to '"+eventsURL+"' failed. Error: "+err);
 }
 
