@@ -15,10 +15,33 @@ function jsonRetrieveError(err){
 }
 
 function populateEvents(EventsJSON){
+  sortEvents(EventsJSON);
+  var today = new Date();
+  today.setHours(0,0,0,0);
+  const upcoming = [];
+  const past = [];
   for (var i=0; i < 5; i++){  //Loop through events
-    var eventElement = setEvent(EventsJSON[i], i)
+    if(new Date(EventsJSON[i].date).getTime() < today.getTime()){
+      upcoming.push(EventsJSON[i]);
+    } else {
+      past.push(EventsJSON[i]);
+    }
+  }
+
+  for (var i=0; i < upcoming.length; i++){  //Loop through events
+    var eventElement = setEvent(upcoming[i], i)
+  }
+  for (i; i < 5; i++){  //Loop through events
+    var eventElement = setEvent(past[past.length - 1 - i], i)
   }
 }
+
+function sortEvents(EventsJson) {
+  EventsJson.sort(function(a, b){
+    return new Date(b.date).getTime() - new Date(a.date).getTime();
+  });
+}
+
 function setEvent(EventJSON, index){
   header = document.getElementById(`event-header-${index+1}`);
   header.innerText = EventJSON['name'];

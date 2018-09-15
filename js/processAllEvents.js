@@ -40,6 +40,7 @@ function populateEvents(EventsJSON){
   upcoming.innerHTML = ""
   past.innerHTML = ""
 
+  sortEvents(EventsJSON);
   for (var i=0; i < EventsJSON.length; i++){  //Loop through events
     var eventElement = newEvent(EventsJSON[i])
     var eventDate = new Date(EventsJSON[i]['date']);
@@ -52,6 +53,13 @@ function populateEvents(EventsJSON){
     }
   }
 }
+
+function sortEvents(EventsJson) {
+  EventsJson.sort(function(a, b){
+    return new Date(b.date) - new Date(a.date);
+  });
+}
+
 function newEvent(EventJSON){
   var event = document.createElement("div");
   event.setAttribute('class', 'event');
