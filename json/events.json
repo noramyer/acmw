@@ -1,12 +1,38 @@
 [
   {
-  "name":"Nationwide",
+  "name":"JP Morgan & Chase Info Session",
+  "title_url":"",
+  "link_type": 0,
+  "date_string":"October 17th",
+  "date":"October 17 2018",
+  "time":"7:00 - 8:30 PM",
+  "location":"Dreese 264",
+  "location_url":"",
+  "desc":"",
+  "rsvp":"",
+  "rsvp_link":""
+  },
+  {
+  "name":"HMB Lightning Talks",
+  "title_url":"",
+  "link_type": 0,
+  "date_string":"October 9th",
+  "date":"October 9 2018",
+  "time":"7:00 - 8:00 PM",
+  "location":"Dreese 264",
+  "location_url":"",
+  "desc":"",
+  "rsvp":"",
+  "rsvp_link":""
+  },
+  {
+  "name":"Social: Speed Networking",
   "title_url":"",
   "link_type": 0,
   "date_string":"October 3rd",
   "date":"October 3 2018",
-  "time":"5:45 - 6:50 PM",
-  "location":"TBD",
+  "time":"7:00 - 8:00 PM",
+  "location":"Dreese 264",
   "location_url":"",
   "desc":"",
   "rsvp":"",
@@ -26,7 +52,7 @@
   "rsvp_link":""
   },
   {
-  "name":"Facebook",
+  "name":"Facebook: Crushing Your Coding Interview",
   "title_url":"",
   "link_type": 0,
   "date_string":"September 24th",
