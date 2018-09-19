@@ -19,13 +19,27 @@ function populateEvents(EventsJSON){
   today.setHours(0,0,0,0);
   const upcoming = [];
   const past = [];
-  for (var i=0; i < 5; i++){  //Loop through events
+
+  for (var i=0; i < EventsJSON.length; i++){  //Loop through events
+    var eventDate = new Date(EventsJSON[i]['date']);
+    eventDate.setHours(0,0,0,0);
+
+    if(eventDate.getTime() < today.getTime()){
+      past.push(EventsJSON[i]);
+    } else {
       upcoming.push(EventsJSON[i]);
+    }
   }
 
   upcoming.reverse();
-  for (var i=0; i < upcoming.length; i++){  //Loop through events
-    var eventElement = setEvent(upcoming[i], i);
+  upcomingEventsSize = upcoming.length;
+  for (var i=0; i < 5 - upcomingEventsSize; i++){  //Loop through events
+    var eventElement = setEvent(past[i], i);
+  }
+  offset = i;
+
+  for (i; i < 5; i++){  //Loop through events
+    var eventElement = setEvent(upcoming[i - offset], i);
   }
 }
 
