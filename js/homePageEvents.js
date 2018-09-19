@@ -20,18 +20,12 @@ function populateEvents(EventsJSON){
   const upcoming = [];
   const past = [];
   for (var i=0; i < 5; i++){  //Loop through events
-    if(new Date(EventsJSON[i].date).getTime() < today.getTime()){
       upcoming.push(EventsJSON[i]);
-    } else {
-      past.push(EventsJSON[i]);
-    }
   }
 
+  upcoming.reverse();
   for (var i=0; i < upcoming.length; i++){  //Loop through events
-    var eventElement = setEvent(upcoming[i], i)
-  }
-  for (i; i < 5; i++){  //Loop through events
-    var eventElement = setEvent(past[past.length - 1 - i], i)
+    var eventElement = setEvent(upcoming[i], i);
   }
 }
 
