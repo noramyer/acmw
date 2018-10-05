@@ -18,7 +18,7 @@ link = function(url, text, icon){
 var eventsURL = "https://raw.githubusercontent.com/ACMWOSU/ACMWOSU.github.io/master/js/events.json";
 
 $.getJSON(eventsURL)
-  .done(function(data){//On successful import populate the page
+  .done(function(data){//On successful import populate the page -- small edit
     populateEvents(data);
   })
   .fail(function(a, b, c){ //When fail contact me or link to github to submit pull request
