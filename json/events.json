@@ -1,5 +1,57 @@
 [
   {
+  "name":"State Auto Insurance",
+  "title_url":"",
+  "link_type": 0,
+  "date_string":"January 30th",
+  "date":"January 30 2019",
+  "time":"7:00 - 8:00 PM",
+  "location":"Dreese 264",
+  "location_url":"",
+  "desc":"",
+  "rsvp":"",
+  "rsvp_link":""
+  },
+  {
+  "name":"CoverMyMeds",
+  "title_url":"",
+  "link_type": 0,
+  "date_string":"January 23rd",
+  "date":"January 23 2019",
+  "time":"7:00 - 8:00 PM",
+  "location":"Dreese 264",
+  "location_url":"",
+  "desc":"",
+  "rsvp":"",
+  "rsvp_link":""
+  },
+  {
+  "name":"Spring Kickoff",
+  "title_url":"",
+  "link_type": 0,
+  "date_string":"January 16th",
+  "date":"January 16 2019",
+  "time":"7:00 - 8:00 PM",
+  "location":"Dreese 264",
+  "location_url":"",
+  "desc":"",
+  "rsvp":"",
+  "rsvp_link":""
+  },
+  {
+  "name":"End of Semester Social",
+  "title_url":"",
+  "link_type": 0,
+  "date_string":"November 28th",
+  "date":"November 28 2018",
+  "time":"7:00 - 8:00 PM",
+  "location":"Dreese 264",
+  "location_url":"",
+  "desc":"",
+  "rsvp":"",
+  "rsvp_link":""
+  },
+  {
   "name":"Nationwide",
   "title_url":"",
   "link_type": 0,
