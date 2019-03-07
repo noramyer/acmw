@@ -433,6 +433,11 @@ a:focus, a:hover, a:active {
   border-color: #373738;
 }
 
+.btn-tertiary {
+  background-color: #fff;
+  border-color: #fff;
+}
+
 .btn-secondary:hover, .btn-secondary:focus, .btn-secondary:active {
   background-color: #373738;
   border-color: #373738;
