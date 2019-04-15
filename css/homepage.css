@@ -60,6 +60,12 @@ section {
   padding: 2rem 0 6rem;
 }
 
+.how-to-join-img {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
 .photos-section {
   padding: 3rem;
 }
