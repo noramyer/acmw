@@ -1,5 +1,18 @@
 [
   {
+    "name":"Ice Cream Social",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"August 19th",
+    "date":"August 19 2019",
+    "time":"5:00 - 6:00 PM",
+    "location":"Numbers Garden",
+    "location_url":"",
+    "desc":"If there's bad weather the event will be moved to Dreese Lobby",
+    "rsvp":"",
+    "rsvp_link":""
+  },
+  {
   "name":"Northrop Grumman: Reverse Engineering",
   "title_url":"",
   "link_type": 0,
