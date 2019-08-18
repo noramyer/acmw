@@ -1,5 +1,31 @@
 [
   {
+    "name":"Capital One",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"September 25th",
+    "date":"September 25 2019",
+    "time":"7:00 - 8:00 PM",
+    "location":"Dreese 264",
+    "location_url":"",
+    "desc":"",
+    "rsvp":"",
+    "rsvp_link":""
+  },
+  {
+    "name":"Eating with Industry",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"September 24th",
+    "date":"September 24 2019",
+    "time":"7:00 - 9:00 PM",
+    "location":"TBD",
+    "location_url":"",
+    "desc":"",
+    "rsvp":"",
+    "rsvp_link":""
+  },
+  {
     "name":"Google Lunch n Learn",
     "title_url":"",
     "link_type": 0,
@@ -33,19 +59,6 @@
     "date":"September 16 2019",
     "time":"TBD",
     "location":"TBD",
-    "location_url":"",
-    "desc":"",
-    "rsvp":"",
-    "rsvp_link":""
-  },
-  {
-    "name":"Northrop Grumman",
-    "title_url":"",
-    "link_type": 0,
-    "date_string":"September 4th",
-    "date":"September 4 2019",
-    "time":"7:00 - 8:00 PM",
-    "location":"Dreese 264",
     "location_url":"",
     "desc":"",
     "rsvp":"",
