@@ -39,19 +39,6 @@
     "rsvp_link":""
   },
   {
-    "name":"Career Success with ASC",
-    "title_url":"",
-    "link_type": 0,
-    "date_string":"September 18th",
-    "date":"September 18 2019",
-    "time":"7:00 - 8:00 PM",
-    "location":"Dreese 264",
-    "location_url":"",
-    "desc":"",
-    "rsvp":"",
-    "rsvp_link":""
-  },
-  {
     "name":"Google Office Hours",
     "title_url":"",
     "link_type": 0,
@@ -86,7 +73,7 @@
     "time":"6:30 - 8:00 PM",
     "location":"Baker 120",
     "location_url":"",
-    "desc":"",
+    "desc":"Come learn about Microsoft and career opportunities for students from a panel of Microsoft software engineers and program managers! Food will be provided.",
     "rsvp":"",
     "rsvp_link":""
   },
@@ -99,7 +86,7 @@
     "time":"6:00 - 7:00 PM",
     "location":"Dreese 113",
     "location_url":"",
-    "desc":"",
+    "desc":"Come hear from interns from Google, Microsoft, Disney, and more about their experience and ask questions! All majors and genders welcome.",
     "rsvp":"",
     "rsvp_link":""
   },
