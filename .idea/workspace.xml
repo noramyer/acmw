@@ -16,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/json/events.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="75" column="166" selection-start-line="75" selection-start-column="166" selection-end-line="75" selection-end-column="166" />
+            <state relative-caret-position="340">
+              <caret line="20" column="30" lean-forward="true" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -171,7 +171,8 @@
       <workItem from="1566326566551" duration="1864000" />
       <workItem from="1566490427515" duration="19000" />
       <workItem from="1567703563536" duration="1381000" />
-      <workItem from="1567979801811" duration="430000" />
+      <workItem from="1567979801811" duration="481000" />
+      <workItem from="1568584663822" duration="1202000" />
     </task>
     <task id="LOCAL-00001" summary="Modified photo section of code i/o">
       <created>1552523027264</created>
@@ -184,12 +185,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18053000" />
+    <option name="totallyTimeSpent" value="19306000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1519" height="977" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2796436" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.283756" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -208,6 +210,7 @@
       <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3127962" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32938388" />
+      <window_info anchor="right" id="SciView" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -273,8 +276,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/json/events.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="75" column="166" selection-start-line="75" selection-start-column="166" selection-end-line="75" selection-end-column="166" />
+        <state relative-caret-position="340">
+          <caret line="20" column="30" lean-forward="true" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
         </state>
       </provider>
     </entry>
