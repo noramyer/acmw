@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0b55c60-ea53-4446-bc8f-d1f6297ea331" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/json/events.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/events.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/bhavya.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/helen.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/jenni.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/sara.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/sara.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mock_contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/mock_contact.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,14 +34,12 @@
       </map>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="528" />
-    <option name="y" value="-21" />
-    <option name="width" value="1602" />
-    <option name="height" value="831" />
+  <component name="ProjectId" id="1R3SRHzjJ9OcucOv4xTZnEgc5fI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -81,6 +84,8 @@
       <workItem from="1567703563536" duration="1381000" />
       <workItem from="1567979801811" duration="481000" />
       <workItem from="1568584663822" duration="1202000" />
+      <workItem from="1568894280952" duration="151000" />
+      <workItem from="1568903539414" duration="2990000" />
     </task>
     <task id="LOCAL-00001" summary="Modified photo section of code i/o">
       <created>1552523027264</created>
@@ -95,7 +100,21 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Modified photo section of code i/o" />
     <option name="LAST_COMMIT_MESSAGE" value="Modified photo section of code i/o" />
   </component>
