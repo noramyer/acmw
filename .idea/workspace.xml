@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0b55c60-ea53-4446-bc8f-d1f6297ea331" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/lillian.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/amyh.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mock_contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/mock_contact.html" afterDir="false" />
     </list>
@@ -83,7 +83,8 @@
       <workItem from="1568584663822" duration="1202000" />
       <workItem from="1568894280952" duration="151000" />
       <workItem from="1568903539414" duration="4250000" />
-      <workItem from="1568913084142" duration="111000" />
+      <workItem from="1568913084142" duration="406000" />
+      <workItem from="1568931510153" duration="297000" />
     </task>
     <task id="LOCAL-00001" summary="Modified photo section of code i/o">
       <created>1552523027264</created>
