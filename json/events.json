@@ -13,6 +13,19 @@
     "rsvp_link":""
   },
   {
+    "name":"Lunch with Pandora CTO",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"October 25th",
+    "date":"October 25 2019",
+    "time":"11:45 AM - 1:00 PM",
+    "location":"Jennings 140",
+    "location_url":"",
+    "desc":"Come grab lunch and learn about the opportunities in engineering and product management & development with the Road Crew Summer 2020 Internship Program! Internships are geared for those pursuing bachelor's and master's degrees who will be within two semesters of graduating or will be recent grads by summer 2020. ",
+    "rsvp":"",
+    "rsvp_link":""
+  },
+  {
     "name":"Fireside Chat",
     "title_url":"",
     "link_type": 0,
