@@ -1,5 +1,31 @@
 [
   {
+    "name":"Accenture Event",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"November 13th",
+    "date":"November 13 2019",
+    "time":"7:00 PM - 8:00 PM",
+    "location":"Dreese 264",
+    "location_url":"",
+    "desc":"",
+    "rsvp":"",
+    "rsvp_link":""
+  },
+  {
+    "name":"HMB Event",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"November 6th",
+    "date":"November 6 2019",
+    "time":"7:00 PM - 8:00 PM",
+    "location":"Dreese 264",
+    "location_url":"",
+    "desc":"",
+    "rsvp":"",
+    "rsvp_link":""
+  },
+  {
     "name":"Brooksource",
     "title_url":"",
     "link_type": 0,
