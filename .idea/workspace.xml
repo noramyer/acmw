@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="32a8a7de-ae2c-4524-b988-e551b6a60adc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/anna.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/chris.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/jing.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/linda.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/zehur.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeio.html" beforeDir="false" afterPath="$PROJECT_DIR$/codeio.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/events.html" beforeDir="false" afterPath="$PROJECT_DIR$/events.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/how-to-join.html" beforeDir="false" afterPath="$PROJECT_DIR$/how-to-join.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mock_contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/mock_contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos.html" beforeDir="false" afterPath="$PROJECT_DIR$/photos.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +32,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -96,7 +87,9 @@
       <workItem from="1571935319275" duration="317000" />
       <workItem from="1572209386381" duration="89000" />
       <workItem from="1572212126432" duration="1602000" />
-      <workItem from="1572393940802" duration="2320000" />
+      <workItem from="1572393940802" duration="2671000" />
+      <workItem from="1572445158682" duration="867000" />
+      <workItem from="1572453469960" duration="167000" />
     </task>
     <task id="LOCAL-00001" summary="Modified photo section of code i/o">
       <created>1552523027264</created>
