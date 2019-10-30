@@ -2,13 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="32a8a7de-ae2c-4524-b988-e551b6a60adc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/pics2019/ewi.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/pics2019/execboard.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/pics2019/ghc2019.JPEG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/pics2019/google2019.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/swathi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/anna.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/chris.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/jing.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/linda.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/zehur.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/pics2019/LEADERshipRetreat.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeio.html" beforeDir="false" afterPath="$PROJECT_DIR$/codeio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/events.html" beforeDir="false" afterPath="$PROJECT_DIR$/events.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/how-to-join.html" beforeDir="false" afterPath="$PROJECT_DIR$/how-to-join.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mock_contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/mock_contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/photos.html" beforeDir="false" afterPath="$PROJECT_DIR$/photos.html" afterDir="false" />
     </list>
@@ -46,8 +49,9 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Sara\IdeaProjects\acmwosu.github.io\img\pics2019" />
       <recent name="C:\Users\Sara\IdeaProjects\acmwosu.github.io\img" />
+      <recent name="C:\Users\Sara\IdeaProjects\acmwosu.github.io\img\portfolio" />
+      <recent name="C:\Users\Sara\IdeaProjects\acmwosu.github.io\img\pics2019" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -91,7 +95,8 @@
       <workItem from="1571783943855" duration="982000" />
       <workItem from="1571935319275" duration="317000" />
       <workItem from="1572209386381" duration="89000" />
-      <workItem from="1572212126432" duration="1097000" />
+      <workItem from="1572212126432" duration="1602000" />
+      <workItem from="1572393940802" duration="2320000" />
     </task>
     <task id="LOCAL-00001" summary="Modified photo section of code i/o">
       <created>1552523027264</created>
