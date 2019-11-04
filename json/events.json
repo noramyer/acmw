@@ -1,5 +1,31 @@
 [
   {
+    "name":"Web Development Workshop with C4C",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"November 12th",
+    "date":"November 12 2019",
+    "time":"6:00 PM - 8:00 PM",
+    "location":"Baker Systems 144",
+    "location_url":"",
+    "desc":"ACM-W is pairing up with Code 4 Community to present an introductory HTML/CSS workshop for college students! If you have little to no HTML/CSS experience or have non-programming friends who would be interested in learning!",
+    "rsvp":"Please click here to RSVP!",
+    "rsvp_link":"http://go.osu.edu/introwebdev"
+  },
+  {
+    "name":"ACM-W's Scratch Workshop: Volunteering",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"November 16th",
+    "date":"November 16 2019",
+    "time":"10:00 AM - 12:00 PM",
+    "location":"Dreese Labs",
+    "location_url":"",
+    "desc":"Come volunteer at ACM-W's Scratch Workshop on November 16th, 2019 from 10 am - 12pm to help teach Scratch! This is a free Computer Science workshop that aims to enable middle schoolers to see the power and fun of programming. Activities include interactive programming with Scratch using Google CS First.",
+    "rsvp":"Please click here to RSVP!",
+    "rsvp_link":"https://go.osu.edu/scratchworkshop"
+  },
+  {
     "name":"Accenture Event",
     "title_url":"",
     "link_type": 0,
