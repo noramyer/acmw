@@ -1,5 +1,18 @@
 [
   {
+    "name":"ACM-W Chipotle Fundraiser",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"November 9th",
+    "date":"November 9 2019",
+    "time":"5:00 PM - 9:00 PM",
+    "location":"2130 North High Street",
+    "location_url":"",
+    "desc":"Support ACM-W for dinner on Saturday, November 9th! Be sure to present the flyer to the cashier for your support to count!",
+    "rsvp":"",
+    "rsvp_link":""
+  },
+  {
     "name":"Web Development Workshop with C4C",
     "title_url":"",
     "link_type": 0,
@@ -8,7 +21,7 @@
     "time":"6:00 PM - 8:00 PM",
     "location":"Baker Systems 144",
     "location_url":"",
-    "desc":"ACM-W is pairing up with Code 4 Community to present an introductory HTML/CSS workshop for college students! If you have little to no HTML/CSS experience or have non-programming friends who would be interested in learning!",
+    "desc":"ACM-W is pairing up with Code 4 Community to present an introductory HTML/CSS workshop for college students! If you have little to no HTML/CSS experience or have non-programming friends who would be interested in learning have them RSVP!",
     "rsvp":"Please click here to RSVP!",
     "rsvp_link":"http://go.osu.edu/introwebdev"
   },

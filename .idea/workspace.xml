@@ -65,7 +65,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f0b55c60-ea53-4446-bc8f-d1f6297ea331" name="Default Changelist" comment="" />
+      <changelist id="32a8a7de-ae2c-4524-b988-e551b6a60adc" name="Default Changelist" comment="" />
       <created>1552522173469</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -89,6 +89,7 @@
       <workItem from="1571783943855" duration="982000" />
       <workItem from="1571935319275" duration="317000" />
       <workItem from="1572209386381" duration="89000" />
+      <workItem from="1572880338385" duration="149000" />
     </task>
     <task id="LOCAL-00001" summary="Modified photo section of code i/o">
       <created>1552523027264</created>
