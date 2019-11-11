@@ -26,19 +26,6 @@
     "rsvp_link":""
   },
   {
-    "name":"Web Development Workshop with C4C",
-    "title_url":"",
-    "link_type": 0,
-    "date_string":"November 12th",
-    "date":"November 12 2019",
-    "time":"6:00 PM - 8:00 PM",
-    "location":"Baker Systems 144",
-    "location_url":"",
-    "desc":"ACM-W is pairing up with Code 4 Community to present an introductory HTML/CSS workshop for college students! If you have little to no HTML/CSS experience or have non-programming friends who would be interested in learning please tell them to RSVP!",
-    "rsvp":"Please click here to RSVP!",
-    "rsvp_link":"http://go.osu.edu/introwebdev"
-  },
-  {
     "name":"ACM-W's Scratch Workshop: Volunteering",
     "title_url":"",
     "link_type": 0,
