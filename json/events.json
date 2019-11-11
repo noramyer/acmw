@@ -1,5 +1,18 @@
 [
   {
+    "name":"4-H National Science Day",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"November 20th",
+    "date":"November 20 2019",
+    "time":"7:00 PM - 9:00 PM",
+    "location":"2201 Fred Taylor Drive",
+    "location_url":"",
+    "desc":"Come volunteer and help teach Computer Science concepts and problem-solving skills at 4-H's Nation Science Day event on November 20th from 7-9 PM.",
+    "rsvp":"Please sign up here!",
+    "rsvp_link":"https://docs.google.com/forms/d/e/1FAIpQLSdC6v4cE1-Y0RZiy5fhHl5Miq5mztazyIi5pkGh51boS5-pUA/viewform"
+  },
+  {
     "name":"ACM-W Chipotle Fundraiser",
     "title_url":"",
     "link_type": 0,
@@ -8,7 +21,7 @@
     "time":"5:00 PM - 9:00 PM",
     "location":"2130 North High Street",
     "location_url":"",
-    "desc":"Support ACM-W for dinner on Saturday, November 9th! Be sure to present the flyer to the cashier for your support to count!",
+    "desc":"Support ACM-W for dinner on Saturday! Be sure to present the flyer to the cashier for your support to count!",
     "rsvp":"",
     "rsvp_link":""
   },
@@ -21,7 +34,7 @@
     "time":"6:00 PM - 8:00 PM",
     "location":"Baker Systems 144",
     "location_url":"",
-    "desc":"ACM-W is pairing up with Code 4 Community to present an introductory HTML/CSS workshop for college students! If you have little to no HTML/CSS experience or have non-programming friends who would be interested in learning have them RSVP!",
+    "desc":"ACM-W is pairing up with Code 4 Community to present an introductory HTML/CSS workshop for college students! If you have little to no HTML/CSS experience or have non-programming friends who would be interested in learning please tell them to RSVP!",
     "rsvp":"Please click here to RSVP!",
     "rsvp_link":"http://go.osu.edu/introwebdev"
   },
@@ -47,7 +60,7 @@
     "time":"7:00 PM - 8:00 PM",
     "location":"Dreese 264",
     "location_url":"",
-    "desc":"",
+    "desc":"Wondering about the biggest trends in tech that are affecting the industry? Come listen to a presentation on an overview of the latest IT trends through Accenture’s Technology Trends for 2019 – Post Digital Era.",
     "rsvp":"",
     "rsvp_link":""
   },
