@@ -1,5 +1,18 @@
 [
   {
+    "name":"Kaggle Workshop with AI Club",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"November 21st",
+    "date":"November 21 2019",
+    "time":"7:00 PM - 8:00 PM",
+    "location":"Baker Systems 144",
+    "location_url":"",
+    "desc":"The president of AI Club will be doing a workshop introducing Kaggle, a resource used to learn and practice artificial intelligence. This workshop will focus on predicting daily stock outcome! Please bring a laptop and create a Kaggle account beforehand!",
+    "rsvp":"",
+    "rsvp_link":""
+  },
+  {
     "name":"4-H National Science Day",
     "title_url":"",
     "link_type": 0,
