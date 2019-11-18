@@ -29,18 +29,10 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Sara\IdeaProjects\acmwosu.github.io\img" />
-      <recent name="C:\Users\Sara\IdeaProjects\acmwosu.github.io\img\portfolio" />
-      <recent name="C:\Users\Sara\IdeaProjects\acmwosu.github.io\img\pics2019" />
-    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -83,15 +75,9 @@
       <workItem from="1571783943855" duration="982000" />
       <workItem from="1571935319275" duration="317000" />
       <workItem from="1572209386381" duration="89000" />
-      <workItem from="1572212126432" duration="1602000" />
-      <workItem from="1572393940802" duration="2671000" />
-      <workItem from="1572445158682" duration="867000" />
-      <workItem from="1572453469960" duration="167000" />
-      <workItem from="1572705160067" duration="30000" />
-      <workItem from="1572705212853" duration="3186000" />
-      <workItem from="1572711620624" duration="10000" />
-      <workItem from="1572712465694" duration="1789000" />
-      <workItem from="1574028324680" duration="1005000" />
+      <workItem from="1572880338385" duration="584000" />
+      <workItem from="1573490379789" duration="662000" />
+      <workItem from="1573493803423" duration="261000" />
     </task>
     <task id="LOCAL-00001" summary="Modified photo section of code i/o">
       <created>1552523027264</created>
