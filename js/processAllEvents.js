@@ -15,7 +15,7 @@ link = function(url, text, icon){
   return anchor;
 }
 
-var eventsURL = "https://raw.githubusercontent.com/ACMWOSU/ACMWOSU.github.io/master/js/events.json";
+var eventsURL = "https://raw.githubusercontent.com/ACMWOSU/acmwosu.github.io/master/json/events.json";
 
 $.getJSON(eventsURL)
   .done(function(data){//On successful import populate the page -- small edit
@@ -27,7 +27,6 @@ $.getJSON(eventsURL)
 
 function jsonRetrieveError(err){
   var upcoming = document.getElementById('upcoming');
-  upcoming.innerHTML = "Error retrieving JSON. Please contact the webmaster"
   console.log("Request to '"+eventsURL+"' failed. Error: "+err);
 }
 
@@ -40,6 +39,7 @@ function populateEvents(EventsJSON){
   upcoming.innerHTML = ""
   past.innerHTML = ""
 
+  sortEvents(EventsJSON);
   for (var i=0; i < EventsJSON.length; i++){  //Loop through events
     var eventElement = newEvent(EventsJSON[i])
     var eventDate = new Date(EventsJSON[i]['date']);
@@ -52,6 +52,13 @@ function populateEvents(EventsJSON){
     }
   }
 }
+
+function sortEvents(EventsJson) {
+  EventsJson.sort(function(a, b){
+    return new Date(b.date) - new Date(a.date);
+  });
+}
+
 function newEvent(EventJSON){
   var event = document.createElement("div");
   event.setAttribute('class', 'event');

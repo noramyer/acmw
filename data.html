@@ -8,7 +8,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>ACMW - Ohio State</title>
+    <title>ACM-W - Ohio State</title>
 
     <!-- Bootstrap CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -24,6 +24,8 @@
     <!-- Custom styles -->
     <link href="css/homepage.css" rel="stylesheet">
 
+    <link rel="icon" href="img/favicon.ico">
+
   </head>
 
   <body id="page-top">
@@ -33,18 +35,29 @@
     <!-- Navigation -->
     <nav class="navbar navbar-expand-lg bg-secondary fixed-top text-uppercase" id="mainNav">
       <div class="container">
-        <a class="navbar-brand js-scroll-trigger" href="#page-top">ACMW | OSU</a>
-        <button class="navbar-toggler navbar-toggler-right text-uppercase bg-primary text-white rounded" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+        <a class="navbar-brand js-scroll-trigger" href="index.html">ACM-W | OSU</a>
+        <button class="navbar-toggler navbar-toggler-right text-uppercase bg-primary text-white rounded" type="button" data-toggle="dropdown" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
           Menu
           <i class="fa fa-bars"></i>
         </button>
         <div class="collapse navbar-collapse" id="navbarResponsive">
           <ul class="navbar-nav ml-auto">
             <li class="nav-item mx-0 mx-lg-1">
-              <a class="nav-link py-3 px-0 px-lg-3 rounded" href="index.html">Home</a>
+              <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="index.html#events">Events</a>
             </li>
             <li class="nav-item mx-0 mx-lg-1">
-              <a class="nav-link py-3 px-0 px-lg-3 rounded" href="data.html">Data</a>
+              <a class="nav-link py-3 px-0 px-lg-3 rounded" href="codeio.html">Code I/O</a>
+            </li>
+            <li class="nav-item mx-0 mx-lg-1">
+              <a class="nav-link py-3 px-0 px-lg-3 rounded" href="photos.html">Photos</a>
+            </li>
+            <li class="nav-item mx-0 mx-lg-1 dropdown">
+              <a class="nav-link dropdown-toggle py-3 px-0 px-lg-3 rounded js-scroll-trigger" role="button" data-toggle="dropdown">About</a>
+              <div class="dropdown-menu">
+                <a class="dropdown-item" href="index.html#about">About ACM-W</a>
+                <a class="dropdown-item" href="index.html#contact">Contact</a>
+                <a class="dropdown-item" href="how-to-join.html">How to join</a>
+              </div>
             </li>
           </ul>
         </div>

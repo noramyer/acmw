@@ -1,4 +1,4 @@
-var eventsURL = "https://raw.githubusercontent.com/ACMWOSU/ACMWOSU.github.io/master/js/events.json";
+var eventsURL = "https://raw.githubusercontent.com/ACMWOSU/acmwosu.github.io/master/json/events.json";
 
 $.getJSON(eventsURL)
   .done(function(data){//On successful import populate the page
@@ -10,15 +10,45 @@ $.getJSON(eventsURL)
 
 function jsonRetrieveError(err){
   var upcoming = document.getElementById('event-squares');
-  upcoming.innerHTML = "Error retrieving JSON. Please contact the webmaster"
   console.log("Request to '"+eventsURL+"' failed. Error: "+err);
 }
 
 function populateEvents(EventsJSON){
-  for (var i=0; i < 5; i++){  //Loop through events
-    var eventElement = setEvent(EventsJSON[i], i)
+  sortEvents(EventsJSON);
+  var today = new Date();
+  today.setHours(0,0,0,0);
+  const upcoming = [];
+  const past = [];
+
+  for (var i=0; i < EventsJSON.length; i++){  //Loop through events
+    var eventDate = new Date(EventsJSON[i]['date']);
+    eventDate.setHours(0,0,0,0);
+
+    if(eventDate.getTime() < today.getTime()){
+      past.push(EventsJSON[i]);
+    } else {
+      upcoming.push(EventsJSON[i]);
+    }
+  }
+
+  upcoming.reverse();
+  upcomingEventsSize = upcoming.length;
+  for (var i=0; i < 5 - upcomingEventsSize; i++){  //Loop through events
+    var eventElement = setEvent(past[i], i);
+  }
+  offset = i;
+
+  for (i; i < 5; i++){  //Loop through events
+    var eventElement = setEvent(upcoming[i - offset], i);
   }
 }
+
+function sortEvents(EventsJson) {
+  EventsJson.sort(function(a, b){
+    return new Date(b.date).getTime() - new Date(a.date).getTime();
+  });
+}
+
 function setEvent(EventJSON, index){
   header = document.getElementById(`event-header-${index+1}`);
   header.innerText = EventJSON['name'];
