@@ -1,5 +1,18 @@
 [
   {
+    "name":"Spring Kickoff",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"January 8th",
+    "date":"January 8 2020",
+    "time":"7:00 PM - 8:00 PM",
+    "location":"Dreese 264",
+    "location_url":"",
+    "desc":"Start the new year by coming to ACM-W's Spring Kickoff! Meet new members and catch up with old ones! All majors and genders are welcome!",
+    "rsvp":"",
+    "rsvp_link":""
+  },
+  {
     "name":"Kaggle Workshop with AI Club",
     "title_url":"",
     "link_type": 0,

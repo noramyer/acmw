@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="32a8a7de-ae2c-4524-b988-e551b6a60adc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/pics2019/scratchWS.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mock_contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/mock_contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos.html" beforeDir="false" afterPath="$PROJECT_DIR$/photos.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/json/events.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/events.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,6 +38,9 @@
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
+    <key name="OPEN_URL_DIALOG">
+      <recent name="http://https://github.com/smiskus/smiskus.github.io.git" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Sara\IdeaProjects\acmwosu.github.io\img\pics2019" />
     </key>
@@ -89,7 +90,10 @@
       <workItem from="1573490379789" duration="662000" />
       <workItem from="1573493803423" duration="261000" />
       <workItem from="1574100315796" duration="493000" />
-      <workItem from="1574101196212" duration="709000" />
+      <workItem from="1574101196212" duration="799000" />
+      <workItem from="1576083692200" duration="63000" />
+      <workItem from="1576083798616" duration="70000" />
+      <workItem from="1578330413830" duration="92000" />
     </task>
     <task id="LOCAL-00001" summary="Modified photo section of code i/o">
       <created>1552523027264</created>
