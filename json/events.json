@@ -1,5 +1,57 @@
 [
   {
+    "name":"Capital One",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"January 29th",
+    "date":"January 29 2020",
+    "time":"7:00 PM - 8:00 PM",
+    "location":"Dreese 264",
+    "location_url":"",
+    "desc":"",
+    "rsvp":"",
+    "rsvp_link":""
+  },
+  {
+    "name":"Sitti Startup Talk",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"January 22nd",
+    "date":"January 22 2020",
+    "time":"7:00 PM - 8:00 PM",
+    "location":"Dreese 264",
+    "location_url":"",
+    "desc":"",
+    "rsvp":"",
+    "rsvp_link":""
+  },
+  {
+    "name":"LinkedIn Workshop",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"January 15th",
+    "date":"January 15 2020",
+    "time":"7:00 PM - 8:00 PM",
+    "location":"Dreese 264",
+    "location_url":"",
+    "desc":"Learn more on how to set up your LinkedIn Profile!",
+    "rsvp":"",
+    "rsvp_link":""
+  },
+  {
+    "name":"Girl Scouts Robotics Badge",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"January 15th",
+    "date":"January 15 2020",
+    "time":"3:15 PM - 5:00 PM",
+    "location":"Grandview Heights Library",
+    "location_url":"",
+    "desc":"Want to help inspire young girls? Then come help with teaching Scratch and Robotics to Girl Scouts at the Grandview Heights Library!",
+    "rsvp":"Please RSVP to attend here!",
+    "rsvp_link":"https://go.osu.edu/girlscouts"
+  },
+  {
     "name":"Spring Kickoff",
     "title_url":"",
     "link_type": 0,
