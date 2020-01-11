@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="32a8a7de-ae2c-4524-b988-e551b6a60adc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/events.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/events.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/photos.html" beforeDir="false" afterPath="$PROJECT_DIR$/photos.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -94,7 +93,7 @@
       <workItem from="1576083692200" duration="63000" />
       <workItem from="1576083798616" duration="70000" />
       <workItem from="1578330413830" duration="900000" />
-      <workItem from="1578764658630" duration="863000" />
+      <workItem from="1578764658630" duration="1170000" />
     </task>
     <task id="LOCAL-00001" summary="Modified photo section of code i/o">
       <created>1552523027264</created>
