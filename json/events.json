@@ -1,5 +1,31 @@
 [
   {
+    "name":"#IamRemarkable Google Event",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"February 12th",
+    "date":"February 12th 2020",
+    "time":"7:00 PM - 9:00 PM",
+    "location":"Hitchcock 324",
+    "location_url":"",
+    "desc":"Join Google in this event to empower women and underrepresented groups! Learn more about the research around unconscious bias and flex your self-promotion muscles!",
+    "rsvp":"Please RSVP here:",
+    "rsvp_link":"goo.gle/3a0MsNR"
+  },
+  {
+    "name":"Valentine's Day Social",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"February 5th",
+    "date":"February 5 2020",
+    "time":"7:00 PM - 8:00 PM",
+    "location":"Dreese 264",
+    "location_url":"",
+    "desc":"Come hang out and get to know other ACM-W members at this social! Snacks will be provided!",
+    "rsvp":"",
+    "rsvp_link":""
+  },
+  {
     "name":"Capital One",
     "title_url":"",
     "link_type": 0,
@@ -8,7 +34,7 @@
     "time":"7:00 PM - 8:00 PM",
     "location":"Dreese 264",
     "location_url":"",
-    "desc":"",
+    "desc":"Come find out why Capital One is a great place to start your career! There will be two female recent graduates in Capital One's Technology Development Program, as well as a Manager In Tech to speak about how she came into tech with a background in nonprofit and education, and trends in the tech industry today! Dinner will be provided!",
     "rsvp":"",
     "rsvp_link":""
   },
