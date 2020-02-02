@@ -26,6 +26,19 @@
     "rsvp_link":""
   },
   {
+    "name":"Networking Night",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"February 4th",
+    "date":"February 4 2020",
+    "time":"7:00 PM - 8:30 PM",
+    "location":"Busch Valor Room",
+    "location_url":"",
+    "desc":"Still looking for an internship? Then come to ACM-W's Networking night on Feb. 4th! Bring your resume and dress business casual!",
+    "rsvp":"Click here to RSVP",
+    "rsvp_link":"go.osu.edu/acmw-networking"
+  },
+  {
     "name":"Capital One",
     "title_url":"",
     "link_type": 0,
