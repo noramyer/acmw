@@ -1,5 +1,31 @@
 [
   {
+    "name":"Capital One Coffee Chats",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"February 20th",
+    "date":"February 20 2020",
+    "time":"3:00 PM - 5:00 PM",
+    "location":"Berry Cafe",
+    "location_url":"",
+    "desc":"Come find out why Capital One is a great place to start your career with a one-on-one coffee chat with a Capital One Tech Associate. They can’t wait to meet you! Make sure to sign up!",
+    "rsvp":"Click here to sign up!",
+    "rsvp_link":"https://www.signupgenius.com/go/8050e4caaa72cabf85-acmw"
+  },
+  {
+    "name":"Cyber Security Panel with Helen Patton and Marissa Ball",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"February 19th",
+    "date":"February 19 2020",
+    "time":"7:00 PM - 8:00 PM",
+    "location":"Dreese 264",
+    "location_url":"",
+    "desc":"If you’re interested in security, come listen to the CISO of Ohio State, Helen Patton, and an influential cybersecurity specialist, Marissa Ball, discuss their journey into the field. While their paths may have been different, both have the same passion and desire to aspire others to pursue this field. Snacks will be provided!",
+    "rsvp":"",
+    "rsvp_link":""
+  },
+  {
     "name":"#IamRemarkable Google Event",
     "title_url":"",
     "link_type": 0,
