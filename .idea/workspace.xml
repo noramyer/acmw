@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="32a8a7de-ae2c-4524-b988-e551b6a60adc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/files/sponsorship_packet_20_21.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sponsorship.html" beforeDir="false" afterPath="$PROJECT_DIR$/sponsorship.html" afterDir="false" />
     </list>
@@ -43,12 +44,13 @@
     <key name="OPEN_URL_DIALOG">
       <recent name="http://https://github.com/smiskus/smiskus.github.io.git" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Sara\IdeaProjects\acmwosu.github.io" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Sara\IdeaProjects\acmwosu.github.io\files" />
       <recent name="C:\Users\Sara\IdeaProjects\acmwosu.github.io\img\logos" />
       <recent name="C:\Users\Sara\IdeaProjects\acmwosu.github.io\img\pics2019" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Sara\IdeaProjects\acmwosu.github.io" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -116,7 +118,8 @@
       <workItem from="1582131885054" duration="743000" />
       <workItem from="1582137035497" duration="2523000" />
       <workItem from="1582156177551" duration="1036000" />
-      <workItem from="1582159662005" duration="824000" />
+      <workItem from="1582159662005" duration="1693000" />
+      <workItem from="1582218595807" duration="394000" />
     </task>
     <task id="LOCAL-00001" summary="Modified photo section of code i/o">
       <created>1552523027264</created>
