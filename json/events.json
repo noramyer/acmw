@@ -1,5 +1,18 @@
 [
   {
+    "name":"Pseudo-LiDAR and Autonomous Driving",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"February 26th",
+    "date":"February 26 2020",
+    "time":"7:00 PM - 8:00 PM",
+    "location":"Dreese 264",
+    "location_url":"",
+    "desc":"Detecting objects such as cars and pedestrians in 3D plays an indispensable role in autonomous driving with input data obtained from LiDAR technology. Wei-Lun Chao, an Assistant Professor in CSE at OSU, will discuss the methods to advance the pseudo-LiDAR framework through improvements in image-based depth estimation.",
+    "rsvp":"",
+    "rsvp_link":""
+  },
+  {
     "name":"Capital One Coffee Chats",
     "title_url":"",
     "link_type": 0,
