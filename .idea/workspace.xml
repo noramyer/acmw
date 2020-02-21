@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="32a8a7de-ae2c-4524-b988-e551b6a60adc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/img/resource/android.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/resource/apple.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/resource/codecademy.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/resource/hackerrank.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/resource/leetcode.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/resource/w3schools.PNG" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/events.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/events.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources.html" beforeDir="false" afterPath="$PROJECT_DIR$/resources.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -44,11 +49,12 @@
     <key name="OPEN_URL_DIALOG">
       <recent name="http://https://github.com/smiskus/smiskus.github.io.git" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Sara\IdeaProjects\acmwosu.github.io\img\pics2019" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Sara\IdeaProjects\acmwosu.github.io" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Sara\IdeaProjects\acmwosu.github.io\img\resource" />
+      <recent name="C:\Users\Sara\IdeaProjects\acmwosu.github.io\img\pics2019" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -114,7 +120,9 @@
       <workItem from="1581806984929" duration="584000" />
       <workItem from="1581908178627" duration="313000" />
       <workItem from="1582220196962" duration="1308000" />
-      <workItem from="1582231487957" duration="1376000" />
+      <workItem from="1582231487957" duration="2020000" />
+      <workItem from="1582237206846" duration="639000" />
+      <workItem from="1582253459710" duration="2475000" />
     </task>
     <task id="LOCAL-00001" summary="Modified photo section of code i/o">
       <created>1552523027264</created>
