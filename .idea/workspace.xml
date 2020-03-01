@@ -2,11 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="32a8a7de-ae2c-4524-b988-e551b6a60adc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/pics2019/ewi.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/pics2019/highschoolhack.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/resource/ghc.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/resource/hackru.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/resource/hacktech.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/resource/highschoolio.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/resource/mhack.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/resource/mlh.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/resource/pennapps.PNG" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/pics2019/ewi.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos.html" beforeDir="false" afterPath="$PROJECT_DIR$/photos.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources.html" beforeDir="false" afterPath="$PROJECT_DIR$/resources.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +41,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -46,12 +51,12 @@
     <key name="OPEN_URL_DIALOG">
       <recent name="http://https://github.com/smiskus/smiskus.github.io.git" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Sara\IdeaProjects\acmwosu.github.io\img\pics2019" />
-      <recent name="C:\Users\Sara\IdeaProjects\acmwosu.github.io\img\resource" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Sara\IdeaProjects\acmwosu.github.io" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Sara\IdeaProjects\acmwosu.github.io\img\resource" />
+      <recent name="C:\Users\Sara\IdeaProjects\acmwosu.github.io\img\pics2019" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -124,6 +129,7 @@
       <workItem from="1582304946590" duration="418000" />
       <workItem from="1582315476932" duration="146000" />
       <workItem from="1582395116020" duration="30000" />
+      <workItem from="1583071981260" duration="5532000" />
     </task>
     <task id="LOCAL-00001" summary="Modified photo section of code i/o">
       <created>1552523027264</created>
