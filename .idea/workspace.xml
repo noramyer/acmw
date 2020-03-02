@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="32a8a7de-ae2c-4524-b988-e551b6a60adc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/resource/ghc.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/resource/hackru.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/resource/hacktech.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/resource/highschoolio.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/resource/mhack.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/resource/mlh.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/resource/pennapps.PNG" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources.html" beforeDir="false" afterPath="$PROJECT_DIR$/resources.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/json/events.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/events.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -129,7 +122,8 @@
       <workItem from="1582304946590" duration="418000" />
       <workItem from="1582315476932" duration="146000" />
       <workItem from="1582395116020" duration="30000" />
-      <workItem from="1583071981260" duration="5532000" />
+      <workItem from="1583071981260" duration="6189000" />
+      <workItem from="1583111702981" duration="724000" />
     </task>
     <task id="LOCAL-00001" summary="Modified photo section of code i/o">
       <created>1552523027264</created>
