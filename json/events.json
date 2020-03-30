@@ -1,5 +1,44 @@
 [
   {
+    "name":"MathWorks Workshop",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"April 15th",
+    "date":"April 15 2020",
+    "time":"7:00 PM - 8:00 PM",
+    "location":"Virtual",
+    "location_url":"",
+    "desc":"",
+    "rsvp":"",
+    "rsvp_link":""
+  },
+  {
+    "name":"CCS Workshop",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"April 8th",
+    "date":"April 8 2020",
+    "time":"7:00 PM - 8:00 PM",
+    "location":"Virtual",
+    "location_url":"",
+    "desc":"",
+    "rsvp":"",
+    "rsvp_link":""
+  },
+  {
+    "name":"Netflix Party",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"April 1st",
+    "date":"April 1 2020",
+    "time":"7:00 PM - 8:00 PM",
+    "location":"Virtual",
+    "location_url":"",
+    "desc":"Social distancing can't stop us from watching movies together! Join us for out first virtual social! We will be watching and chatting about To All the Boys I've Loved Before. Make sure to download the Netflix Party Google Chrome extension before the social and have a Netflix account! The URL link to join will be sent out the day of.",
+    "rsvp":"",
+    "rsvp_link":""
+  },
+  {
     "name":"Grace Hopper Celebration & Exec Board Info Session",
     "title_url":"",
     "link_type": 0,
