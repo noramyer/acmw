@@ -1,5 +1,18 @@
 [
   {
+    "name":"Study Tables",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"April 22nd",
+    "date":"April 22 2020",
+    "time":"7:00 PM - 8:00 PM",
+    "location":"Zoom ID: 94811798946",
+    "location_url":"",
+    "desc":"Join us for virtual study tables! Come and study with members and catch up with each other!",
+    "rsvp":"",
+    "rsvp_link":""
+  },
+  {
     "name":"MathWorks Workshop",
     "title_url":"",
     "link_type": 0,
@@ -8,7 +21,7 @@
     "time":"7:00 PM - 8:00 PM",
     "location":"Virtual",
     "location_url":"",
-    "desc":"",
+    "desc":"Let’s get started with Deep Learning and the Internet of Things with MathWorks! We’ll do hands-on exercises: you’ll use a webcam and a neural network to recognize images, aggregate data, and run real-time IoT analytics. The goal is to get you excited about IoT and Deep Learning, and to set you up for success with maker projects in your community!",
     "rsvp":"",
     "rsvp_link":""
   },
@@ -21,7 +34,7 @@
     "time":"7:00 PM - 8:00 PM",
     "location":"Virtual",
     "location_url":"",
-    "desc":"",
+    "desc":"Life is really hard right now and it’s okay to not feel okay. We’re hosting a mental health workshop with Kelsey Wegener, a senior staff therapist from the Office of Student Life Counseling & Service, who will be sharing tips and resources on how to navigate this difficult time, and discuss strategies to make sure we’re taking care of ourselves.",
     "rsvp":"",
     "rsvp_link":""
   },
