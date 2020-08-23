@@ -1,5 +1,18 @@
 [
   {
+    "name":"JPMorgan Info Session",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"September 3rd",
+    "date":"September 3 2020",
+    "time":"7:00 PM - 8:00 PM",
+    "location":"Virtual",
+    "location_url":"",
+    "desc":"Come and learn more about the JPMorgan Chase Software Engineering Program!",
+    "rsvp":"CLick here to register!",
+    "rsvp_link":"http://tinyurl.com/y2ukertm"
+  },
+  {
     "name":"Fall Kickoff",
     "title_url":"",
     "link_type": 0,
