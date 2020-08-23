@@ -1,5 +1,18 @@
 [
   {
+    "name":"Fall Kickoff",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"September 2nd",
+    "date":"September 2 2020",
+    "time":"7:00 PM - 8:00 PM",
+    "location":"Virtual",
+    "location_url":"",
+    "desc":"Come to the first ACM-W meeting to learn more about what we do & meet other students interested in computer science!",
+    "rsvp":"",
+    "rsvp_link":""
+  },
+  {
     "name":"Study Tables",
     "title_url":"",
     "link_type": 0,
