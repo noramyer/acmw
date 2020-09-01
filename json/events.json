@@ -1,5 +1,57 @@
 [
   {
+    "name":"Eating With The Industry",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"September 16th",
+    "date":"September 16 2020",
+    "time":"6:00 PM - 8:00 PM",
+    "location":"Virtual",
+    "location_url":"",
+    "desc":"Connect, introduce and network yourself to top companies in small breakout rooms!",
+    "rsvp":"Click here to register!",
+    "rsvp_link":"https://www.eventbrite.com/e/virtual-eating-with-industry-tickets-117151064989"
+  },
+  {
+    "name":"Intern Panel",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"September 14th",
+    "date":"September 14 2020",
+    "time":"7:00 PM - 8:00 PM",
+    "location":"Virtual",
+    "location_url":"",
+    "desc":"Hear from students who have had internships in the computer science field.",
+    "rsvp":"",
+    "rsvp_link":""
+  },
+  {
+    "name":"Underwater Robotics Arduino Collaboration",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"September 10th",
+    "date":"September 10 2020",
+    "time":"7:00 PM - 8:00 PM",
+    "location":"Virtual",
+    "location_url":"",
+    "desc":"ACM-W is partnering up with the Underwater Robotics team to bring an introductory course to Arduino using Tinkercad. Learn how to use an ultrasonic sensor.",
+    "rsvp":"",
+    "rsvp_link":""
+  },
+  {
+    "name":"Interview Tips With Accenture",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"September 9th",
+    "date":"September 9 2020",
+    "time":"7:00 PM - 8:00 PM",
+    "location":"Virtual",
+    "location_url":"",
+    "desc":"Interact with Accenture to find out how to make your interview stand out from others. Q&A at the end!",
+    "rsvp":"",
+    "rsvp_link":""
+  },
+  {
     "name":"JPMorgan Info Session",
     "title_url":"",
     "link_type": 0,
