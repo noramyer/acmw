@@ -20,8 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="32a8a7de-ae2c-4524-b988-e551b6a60adc" name="Default Changelist" comment="Modified photo section of code i/o">
+      <change afterPath="$PROJECT_DIR$/img/logos/Accenture.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/events.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/events.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sponsorship.html" beforeDir="false" afterPath="$PROJECT_DIR$/sponsorship.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +56,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552524991039" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="HTML" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img/logos" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -68,18 +69,18 @@
     <key name="OPEN_URL_DIALOG">
       <recent name="http://https://github.com/smiskus/smiskus.github.io.git" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\bhavy\IdeaProjects\acmwosu.github.io\img" />
-      <recent name="C:\Users\bhavy\IdeaProjects\acmwosu.github.io\files" />
-      <recent name="C:\Users\bhavy\IdeaProjects\acmwosu.github.io" />
-      <recent name="C:\Users\bhavy\IdeaProjects\acmwosu.github.io\img\pics2019" />
-      <recent name="C:\Users\Sara\IdeaProjects\acmwosu.github.io\img\logos" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\bhavy\IdeaProjects\acmwosu.github.io\img" />
       <recent name="C:\Users\Sara\IdeaProjects\acmwosu.github.io\files" />
       <recent name="C:\Users\Sara\IdeaProjects\acmwosu.github.io\img\resource" />
       <recent name="C:\Users\Sara\IdeaProjects\acmwosu.github.io\img\pics2019" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\bhavy\IdeaProjects\acmwosu.github.io\img\logos" />
+      <recent name="C:\Users\bhavy\IdeaProjects\acmwosu.github.io\img" />
+      <recent name="C:\Users\bhavy\IdeaProjects\acmwosu.github.io\files" />
+      <recent name="C:\Users\bhavy\IdeaProjects\acmwosu.github.io" />
+      <recent name="C:\Users\bhavy\IdeaProjects\acmwosu.github.io\img\pics2019" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -157,7 +158,9 @@
       <workItem from="1596247914240" duration="737000" />
       <workItem from="1598217206006" duration="3686000" />
       <workItem from="1598631830326" duration="881000" />
-      <workItem from="1598991511317" duration="568000" />
+      <workItem from="1598991511317" duration="1016000" />
+      <workItem from="1599409011572" duration="1269000" />
+      <workItem from="1599431585104" duration="592000" />
     </task>
     <task id="LOCAL-00001" summary="Modified photo section of code i/o">
       <created>1552523027264</created>
@@ -213,6 +216,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Modified photo section of code i/o" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="402" y="143" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599431997111">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="402" y="143" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1599431997111" />
     <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1591923064903">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
