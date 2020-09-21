@@ -12,6 +12,10 @@ h6 {
   font-family: 'Montserrat';
 }
 
+.calendar{
+  padding-top: 110px;
+  margin-left: 130px;
+}
 hr.star-light,
 hr.star-dark {
   max-width: 15rem;
