@@ -18,12 +18,12 @@
     "link_type": 0,
     "date_string":"September 30th",
     "date":"September 30 2020",
-    "time":"7:00 PM - 8:00 PM",
-    "location":"Virtual",
+    "time":"7:00 PM - 8:00 PM\n",
+    "location":"Meeting ID: 912 2422 2634 Password: 832422",
     "location_url":"",
     "desc":"Come interact with students from Code 4 Community!",
-    "rsvp":"",
-    "rsvp_link":""
+    "rsvp":"Click here to be redirected to the zoom event!",
+    "rsvp_link":"https://osu.zoom.us/j/91224222634?pwd=NmhjUVBVd2txRjcrU2ZVa0UzQVUwdz09"
   },
   {
     "name":"ECS Offer Letter Workshop",
