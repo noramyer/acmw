@@ -13,6 +13,19 @@
     "rsvp_link":""
   },
   {
+    "name":"Lean in Circle",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"October 7th",
+    "date":"October 7 2020",
+    "time":"7:00 PM - 8:00 PM\n",
+    "location":"Meeting ID: 984 9689 1276 Password: 963102",
+    "location_url":"",
+    "desc":"Talk to other girls in engineering and discuss being underrepresented in computer science!",
+    "rsvp":"Click here to be redirected to the zoom event!",
+    "rsvp_link":"https://osu.zoom.us/j/98496891276?pwd=SzFvRUlQQ2tHd2FkNmhETXNOTXh5QT09"
+  },
+  {
     "name":"Code 4 Community Social",
     "title_url":"",
     "link_type": 0,
