@@ -6,11 +6,24 @@
     "date_string":"October 14th",
     "date":"October 14 2020",
     "time":"7:00 PM - 8:00 PM",
-    "location":"Virtual",
+    "location":"Meeting ID: 977 3239 6626 Password: 226673",
     "location_url":"",
     "desc":"CapTech shows ACM-W what it's like to be an IT Consulting firm.",
-    "rsvp":"",
-    "rsvp_link":""
+    "rsvp":"Click here to be redirected to the zoom event!",
+    "rsvp_link":"https://osu.zoom.us/j/97732396626?pwd=aFowM3BwRjd4V1ZGSzJOaHhCRTdoZz09"
+  },
+  {
+    "name":"Facebook Info Session and Panel",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"October 12th",
+    "date":"October 12 2020",
+    "time":"5:30 PM - 6:30 PM",
+    "location":"Virtual",
+    "location_url":"",
+    "desc":"Come learn about Facebook's culture, mission, full time positions, SWE interview, and hear tips directly from Alumni who are currently full time at Facebook and have interned with them in the past.",
+    "rsvp":"Click here to register for the event!",
+    "rsvp_link":"https://go.osu.edu/facebook-register"
   },
   {
     "name":"Lean in Circle",
