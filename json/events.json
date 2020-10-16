@@ -1,5 +1,31 @@
 [
   {
+    "name":"Code 4 Community Resume Workshop",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"October 27th",
+    "date":"October 27 2020",
+    "time":"7:00 PM - 8:00 PM",
+    "location":"Meeting ID: 953 0630 0488 Password: 364140",
+    "location_url":"",
+    "desc":"\nLearn Github and markup to host your own resume. Open to any major!.",
+    "rsvp":"Click here to be redirected to the zoom event!",
+    "rsvp_link":"https://osu.zoom.us/j/95306300488?pwd=ZFM2QU9ob1RxOEEzQmZ0L0pVeWZGUT09"
+  },
+  {
+    "name":"HMB IT Consulting",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"October 21st",
+    "date":"October 21 2020",
+    "time":"7:00 PM - 8:00 PM",
+    "location":"Meeting ID: 988 5921 4748 Password: 344189",
+    "location_url":"",
+    "desc":"Learn about the local consulting company, HMB, in their IT Consulting meeting.",
+    "rsvp":"Click here to be redirected to the zoom event!",
+    "rsvp_link":"https://osu.zoom.us/j/98859214748?pwd=SzdwTkl4N25VQ1hkYy9TL1dVeWxlQT09"
+  },
+  {
     "name":"CapTech IT Consulting",
     "title_url":"",
     "link_type": 0,
