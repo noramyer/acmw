@@ -1,5 +1,18 @@
 [
   {
+    "name":"Google Panel with OSU Alumni",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"November 11th",
+    "date":"November 11 2020",
+    "time":"7:00 PM - 8:00 PM\n",
+    "location":"Meeting ID: 960 1586 9417 Password: 972735",
+    "location_url":"",
+    "desc":"Ask any and all questions you have regarding google, full time jobs, engineers and OSU alumni. ",
+    "rsvp":"Click here to be redirected to the zoom event!",
+    "rsvp_link":"https://osu.zoom.us/j/96015869417?pwd=VDBXT0J6MlFHS010blphSEVNSkZFQT09"
+  },
+  {
     "name":"Google Tech Talk With ACM-W Alumni",
     "title_url":"",
     "link_type": 0,
