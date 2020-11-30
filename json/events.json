@@ -1,5 +1,18 @@
 [
   {
+    "name":"Among Us Social",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"December 2nd",
+    "date":"December 2 2020",
+    "time":"7:00 PM - 8:00 PM\n",
+    "location":"Meeting ID: 995 5265 8612 Password: 544129",
+    "location_url":"",
+    "desc":"Take a break from studying from finals and play Among Us with ACM-W!",
+    "rsvp":"Click here to be redirected to the zoom event!",
+    "rsvp_link":"https://osu.zoom.us/j/99552658612?pwd=NXdOMU5pbXRGc09LRFpTazkwaTFPUT09"
+  },
+  {
     "name":"Google Panel with OSU Alumni",
     "title_url":"",
     "link_type": 0,
