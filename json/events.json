@@ -1,5 +1,44 @@
 [
   {
+    "name":"Spring Kickoff",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"January 22nd",
+    "date":"January 22 2021",
+    "time":"7:00 PM - 8:00 PM\n",
+    "location":"Meeting ID: 984 7153 3070 Password: 250678",
+    "location_url":"",
+    "desc":"We will be introducing the upcoming events for the semester as well as having fun activities to reconnect with members of the club and also make new friends.",
+    "rsvp":"Click here to be redirected to the zoom event!",
+    "rsvp_link":"https://osu.zoom.us/j/98471533070?pwd=WnBiZllwQ2szd3hUcWUzVnA3cG5Ydz09"
+  },
+  {
+    "name":"MEP Mixer",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"January 21st",
+    "date":"January 21 2021",
+    "time":"7:00 PM - 8:00 PM\n",
+    "location":"Meeting ID: 997 2808 2818 Password: 365713",
+    "location_url":"",
+    "desc":"Contribute to an inclusive engineering community while playing games and making friends in minority engineering organizations on campus!",
+    "rsvp":"Click here to be redirected to the zoom event!",
+    "rsvp_link":"https://osu.zoom.us/j/99728082818?pwd=K0czY0dzSlVKY1RhV2pxUXdVRDQ5UT09"
+  },
+  {
+    "name":"LinkedIn Workshop",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"January 20th",
+    "date":"January 20 2021",
+    "time":"7:00 PM - 8:00 PM\n",
+    "location":"Meeting ID: 978 9170 4684 Password: 750704",
+    "location_url":"",
+    "desc":"Prepare for the Career Fair and make a LinkedIn profile while also learning some helpful tips about recruiting.",
+    "rsvp":"Click here to be redirected to the zoom event!",
+    "rsvp_link":"https://osu.zoom.us/j/97891704684?pwd=UHcyOFZSRFBWaHg3MlMwN2hhcVJJUT09"
+  },
+  {
     "name":"Among Us Social",
     "title_url":"",
     "link_type": 0,

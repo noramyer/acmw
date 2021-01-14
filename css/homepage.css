@@ -140,6 +140,18 @@ section.data h2 {
   font-size: 1.5rem;
 }
 
+.size{
+  width: 500px;
+  margin: auto;
+}
+
+.carousel-item{
+  position: center !important;
+}
+
+#carouselExampleIndicators{
+  color: #0c5460;
+}
 #mainNav {
   padding-top: 1rem;
   padding-bottom: 1rem;
