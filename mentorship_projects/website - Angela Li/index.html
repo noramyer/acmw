@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+<head>
+     <!-- in order to see how your html page updates, download this file, and then open it in a browser, just refresh the page to see
+     your changes! -->
+    <!-- the 'title' here is what shows up when you hover over the html tab! -->
+    <title>ACM-W Happy Halloween</title>
+    <!-- the 'style' here is how you move your components and make it look pretttyyyy, google search for CSS for help! -->
+    <style>
+        th, td, p, input {
+            font:14px Verdana;
+            text-align: center;
+        }
+        h1 {
+            text-align: center;
+        }
+        div {
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            /* bring your own prefixes */
+            transform: translate(-50%, -50%);
+        }
+        div.container {
+          position: absolute;
+          visibility: hidden;
+          top: 0%;
+          left: 0%;
+          min-width: 100%;
+          min-height: 100%;
+          max-width: 100%;
+          max-height: 100%;
+        }
+        input {
+            position: fixed;
+            top: 90%;
+            left: 30%;
+        }
+        body{
+          background-image: url('Background.jpg');
+          background-size: 100%;
+          background-repeat: no-repeat;
+        }
+
+
+    </style>
+</head>
+<!-- this is where you start your html tags, w3schools is a great place to look up different types of
+HTML components you can add -->
+<body>
+    <div>
+      <p>Happy Halloween!</p>
+      <p>From The ACM-W Big-Little Bit Program</p>
+      <input id="button" type="button" onclick="myFunction()" value="Trick or Treat" />
+      <p id="cattext"></p>
+      <h1 id="scareSomeone"></h1>
+      <audio id="ghostbusters" src="Ghostbusters.mp3" visibility="hidden" loop="true" autoplay="false" />
+      <audio id="meow" src="Meow.wav" visibility="hidden" loop="false" autoplay="false" />
+    </div>
+    <div class="container" id="container">
+      <img id="cat" src="cat.png" width="10%" height="10%" opacity="0.5" onclick="playMeow()"/>
+    </div>
+</body>
+<!-- the 'script' is where you can code in JavaScript inorder to make your page more than static, like here when you click the button, it
+prints out Boo! -->
+<script>
+ function myFunction() {
+  document.getElementById("scareSomeone").innerHTML = "Happy Halloween Witches!";
+  document.getElementById("cattext").innerHTML = "Click me if you can! :P";
+  document.getElementById("ghostbusters").play();
+  document.getElementById("button").style.left = "35%";
+  var cat = document.getElementById("cat");
+  var container = document.getElementById("container");
+  container.style.visibility = "visible";
+  var xpos = 0;
+  var ypos = 0;
+  var xtarget = 20+Math.random()*150;
+  var ytarget = 20+Math.random()*150;
+  var xrate = (xtarget-xpos)/200;
+  var yrate = (ytarget-ypos)/200;
+  var opacity = 0.5;
+  var opaquer = true;
+  var size = 10;
+  var bigger = true;
+  var id = setInterval(frame, 10);
+  function frame() {
+    if (opaquer) {
+      opacity += 0.01;
+      if (opacity >= 1) {
+        opaquer = false;
+      }
+    } else {
+      opacity -= 0.01;
+      if (opacity <= 0) {
+        opaquer = true;
+      }
+    }
+    if (bigger) {
+      size += 0.5;
+      if (size == 30) {
+        bigger = false;
+      }
+    } else {
+      size -= 0.5;
+      if (size == 10) {
+        bigger = true;
+      }
+    }
+    if (Math.abs(xtarget-xpos) < 0.1 && Math.abs(ytarget-ypos) < 0.1) {
+      xtarget = 20+Math.random()*150;
+      ytarget = 20+Math.random()*150;
+      xrate = (xtarget-xpos)/200;
+      yrate = (ytarget-ypos)/200;
+    } else {
+      xpos += xrate;
+      ypos += yrate;
+    }
+    cat.style.opacity = opacity;
+    container.style.top = ypos + "%";
+    container.style.left = xpos + "%";
+    cat.style.width = size + "%";
+    cat.style.height = size + "%";
+    }
+  }
+  function playMeow() {
+    document.getElementById("meow").loop = false;
+    document.getElementById("meow").play();
+    console.log("you got me");
+  }
+</script>
+</html>

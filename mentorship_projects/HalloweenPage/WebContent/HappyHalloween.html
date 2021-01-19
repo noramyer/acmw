@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+     <!-- in order to see how your html page updates, download this file, and then open it in a browser, just refresh the page to see
+     your changes! -->
+    <!-- the 'title' here is what shows up when you hover over the html tab! -->
+    <title>ACM-W Happy Halloween</title>
+    <!-- the 'style' here is how you move your components and make it look pretttyyyy, google search for CSS for help! -->
+    <style>
+        th, td, p, input {
+            font:14px impact;
+            text-align: center;
+        }
+        h1 {
+            text-align: center;
+        }
+        div {
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            /* bring your own prefixes */
+            transform: translate(-50%, -50%);
+        }
+        input {
+            position: fixed;
+            top: 90%;
+            left: 43%;
+        }
+        div{
+            border-style: solid;
+        }
+    </style>
+</head>
+<!-- this is where you start your html tags, w3schools is a great place to look up different types of
+HTML components you can add -->
+<body style= "background-color:orange;">
+    <div>
+    <p>Happy Halloween!</p>
+    <p>From The ACM-W Big-Little Bit Program</p>
+    <p> What does a panda ghost eat?</p>
+    <input type="button" onclick="myFunction()" value="Trick or Treat" />
+    <h1 id="scareSomeone"></h1>
+       <img src = "ghost.jpg" width="300" height="300">
+    </div>
+    
+</body>
+<!-- the 'script' is where you can code in JavaScript inorder to make your page more than static, like here when you click the button, it
+prints out Boo! -->
+<script>
+ function myFunction() {
+  document.getElementById("scareSomeone").innerHTML = "Bam-BOO!";
+  
+ }
+</script>
+</html>

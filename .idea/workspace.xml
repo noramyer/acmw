@@ -20,20 +20,51 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="32a8a7de-ae2c-4524-b988-e551b6a60adc" name="Default Changelist" comment="Modified photo section of code i/o">
-      <change afterPath="$PROJECT_DIR$/img/mentorship/IMPORTANT DATES.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/mentorship/SP21-mentorship-ad.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/mentorship/bhavya.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/mentorship/kicking.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/mentorship/milly.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/mentorship/ohio.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/mentorship/ohio2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/mentorship/sara.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/mentorship/sp21-bit-challenge-dates.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/mentorship/angela.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/mentorship/anya.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/mentorship/jenni.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/mentorship/morgan.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/mentorship/sara_website.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/mentorship/spurthi.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mentorship_projects/ACM Halloween Project/.checkstyle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mentorship_projects/ACM Halloween Project/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mentorship_projects/ACM Halloween Project/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mentorship_projects/ACM Halloween Project/bin/5_skeletons.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mentorship_projects/ACM Halloween Project/bin/Halloween Project.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mentorship_projects/ACM Halloween Project/giggle.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mentorship_projects/ACM Halloween Project/src/5_skeletons.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mentorship_projects/ACM Halloween Project/src/Halloween Project.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mentorship_projects/HalloweenPage/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mentorship_projects/HalloweenPage/.settings/.jsdtscope" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mentorship_projects/HalloweenPage/.settings/org.eclipse.wst.common.component" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mentorship_projects/HalloweenPage/.settings/org.eclipse.wst.common.project.facet.core.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mentorship_projects/HalloweenPage/.settings/org.eclipse.wst.jsdt.ui.superType.container" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mentorship_projects/HalloweenPage/.settings/org.eclipse.wst.jsdt.ui.superType.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mentorship_projects/HalloweenPage/WebContent/HappyHalloween.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mentorship_projects/HalloweenPage/WebContent/ghost.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mentorship_projects/halloween-challenge/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mentorship_projects/halloween-challenge/backgroundBlue.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mentorship_projects/halloween-challenge/backgroundOrange.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mentorship_projects/halloween-challenge/halloweenjoke1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mentorship_projects/halloween-challenge/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mentorship_projects/halloween-challenge/joke2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mentorship_projects/halloween-challenge/joke3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mentorship_projects/halloween-challenge/joke4.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mentorship_projects/halloween-challenge/maxresdefault.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mentorship_projects/halloween-challenge/secondpage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mentorship_projects/morgan.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mentorship_projects/sara.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mentorship_projects/website - Angela Li/Background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mentorship_projects/website - Angela Li/Ghostbusters.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mentorship_projects/website - Angela Li/Meow.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mentorship_projects/website - Angela Li/__MACOSX/._Background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mentorship_projects/website - Angela Li/__MACOSX/._Ghostbusters.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mentorship_projects/website - Angela Li/__MACOSX/._Meow.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mentorship_projects/website - Angela Li/__MACOSX/._cat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mentorship_projects/website - Angela Li/__MACOSX/._index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mentorship_projects/website - Angela Li/cat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mentorship_projects/website - Angela Li/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/homepage.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/homepage.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/mentorship/bhavya&amp;spurthi.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/mentorship/jing.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/mentorship/jing.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/mentorship/milly.jpeg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/mentorship.html" beforeDir="false" afterPath="$PROJECT_DIR$/mentorship.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -89,10 +120,10 @@
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\bhavy\IdeaProjects\acmwosu.github.io\img\mentorship" />
+      <recent name="C:\Users\bhavy\IdeaProjects\acmwosu.github.io\mentorship_projects" />
       <recent name="C:\Users\bhavy\IdeaProjects\acmwosu.github.io\img\logos" />
       <recent name="C:\Users\bhavy\IdeaProjects\acmwosu.github.io\img" />
       <recent name="C:\Users\bhavy\IdeaProjects\acmwosu.github.io\files" />
-      <recent name="C:\Users\bhavy\IdeaProjects\acmwosu.github.io" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -189,7 +220,7 @@
       <workItem from="1610238842182" duration="897000" />
       <workItem from="1610430648529" duration="4219000" />
       <workItem from="1610647285886" duration="1022000" />
-      <workItem from="1611077865187" duration="4592000" />
+      <workItem from="1611077865187" duration="8658000" />
     </task>
     <task id="LOCAL-00001" summary="Modified photo section of code i/o">
       <created>1552523027264</created>

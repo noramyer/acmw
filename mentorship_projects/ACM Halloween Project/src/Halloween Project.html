@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+     <!-- in order to see how your html page updates, download this file, and then open it in a browser, just refresh the page to see
+     your changes! -->
+    <!-- the 'title' here is what shows up when you hover over the html tab! -->
+    <title>ACM-W Happy Halloween</title>
+    <!-- the 'style' here is how you move your components and make it look pretttyyyy, google search for CSS for help! -->
+    <style>
+    
+        th, td, pre, input {
+            color: orange;
+            font:14px Verdana;
+            text-align: center;
+        }
+        h1 {
+            color: rbg(57, 255, 20);
+            text-align: center;
+        }
+        div {
+            color: white;
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            /* bring your own prefixes */
+            transform: translate(-50%, -50%);
+        }
+        input {
+            color: green;
+            position: fixed;
+            top: 90%;
+            left: 30%;
+        }
+    </style>
+</head>
+<!-- this is where you start your html tags, w3schools is a great place to look up different types of
+HTML components you can add -->
+<body style = "background-color: black;">
+    <div>
+    <p color = rgb(0, 0, 0);>Happy Halloween!</p>
+    <p color = rgb(0, 0, 0);>From The ACM-W Big-Little Bit Program</p>
+    <input type="button" onclick="myFunction()" value="Trick or Treat" />
+    <h1 id="scareSomeone"></h1>
+    </div>
+    <pre>                          
+                                 /\ 
+                                /  \
+                               /    \
+                              /      \
+                      010010110101001110100100110100
+                   10001100001000010000100010101010010
+                 00011000000100010101000010100011000010
+                000000100000/ \01011000110/ \1000110000001
+               000001000001/    \10000010/   \0100010000011
+             0100000100001000001000000100000011000011000001
+              000000010000010000101\   /11000000100000100000
+               100001000010000011001\ /110000000100000100001
+                10000010000100000101001000001000001000P1100
+                 100000100010\             /01001000010101
+                   01000100001\           /10101010101001
+                    00010101000010101001010101001010010
+    </pre>
+    <img src = "5_skeletons.gif" alt = "5 dancing skeletons" class="center"> 
+    
+</body>
+<!-- the 'script' is where you can code in JavaScript inorder to make your page more than static, like here when you click the button, it
+prints out Boo! -->
+<script>
+ function myFunction() {
+  document.getElementById("scareSomeone").innerHTML = "Boo!";
+}
+</script>
+</html>

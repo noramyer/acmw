@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+     <!-- in order to see how your html page updates, download this file, and then open it in a browser, just refresh the page to see
+     your changes! -->
+    <!-- the 'title' here is what shows up when you hover over the html tab! -->
+    <title>ACM-W Happy Halloween</title>
+    <!-- the 'style' here is how you move your components and make it look pretttyyyy, google search for CSS for help! -->
+    <style>
+        @import url(http://fonts.googleapis.com/css?family=Denk+One);
+        th, td, input {
+            font: 12px 'Denk One';
+            text-align: center;
+        }
+        p{
+            font: 40px 'Denk One';
+            text-align: center;
+            color: white;
+            font-kerning: none;
+            transform: translate(-50%, -380%);
+        }
+        h1 {
+            text-align: center;
+        }
+        div {
+            position: fixed;
+            top: 50%;
+            left: 50%;            
+        }
+        input {
+            position: fixed;
+            top: 90%;
+            left: 30%;
+            transform: translate(250%, -1500%);
+        }
+        body{
+            background-image: url('backgroundOrange.gif');
+            background-size: cover;
+        }
+        .skeleton{
+            float: left;
+            transform: translate(-500%, 105%);
+        }
+        .tree{
+            transform: translate(63%, 70%);
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <p>Happy Halloween!</p>
+        <p>From The ACM-W Big-Little Bit Program</p>
+        <input type="button" onclick="myFunction()" value="Trick or Treat" id="scareSomeone"/>
+    </div>
+    <div class="skeleton" valign="bottom">
+        <img src="https://content.screencast.com/users/fg-a/folders/halloween/media/62f91cd8-44ab-447b-900f-1ef3085d7808/skeleton-cool-b.gif" width="90" height="150" border="0" alt="Clipart" type="button"/>
+    </div> 
+    <img class="tree" src="http://bestanimations.com/media/halloween/768642509halloween-tree-decoration-gif.gif#.X54qV9zt07g.link"/>
+</body>
+<script>
+function myFunction() {
+    location.href = "secondpage.html";
+}
+</script>
+</html>

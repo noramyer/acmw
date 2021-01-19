@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<!--Carley & Sara-->
+<html>
+<head>
+    <title>ACM-W Happy Halloween</title>
+    <style>
+        body {
+            background-color: black;
+        }
+        th, td, p, input {
+            font:14px Arial;
+            text-align: center;
+        }
+        h2 {
+            text-align: center;
+            color: orangered;
+        }
+        div {
+            color: orange;
+            text-align: center;
+        }
+        input {
+            margin-left: auto;
+            height: 30px;
+            border-radius: 10px;
+        }
+
+        .center {
+            align-content: center;
+        }
+
+        h1 {
+
+        }
+    </style>
+</head>
+<body>
+    <div id="main" style="display:block; text-align: center;">
+        <h2>Spooktacular Halloween</h2>
+        <p>Enter the graveyard if you dare!</p>
+        <div style="text-align:center">
+            <input type="button" onclick="myFunction('graveyard')" value="ENTER" />
+        </div>
+        <br>
+        <img src="https://cdn.photofunia.com/effects/cemetery-gates/examples/ab35po_o.jpg" alt="gates">
+    </div>
+    <div id="graveyard" style="display:none; text-align: center;">
+        <h2>Welcome to the graveyard of forgotten souls!</h2>
+        <p>Many have wandered the misty grounds of this historic site. But none dare to cross it's threshhold at night. You spot a lone lantern at the far side of the graveyard, do you follow it?</p>
+        <img src="https://i.pinimg.com/originals/12/1b/3c/121b3cce05f7308bd35fb3a3b4719586.png" alt="grave" width="500" height="400">
+        <div style="text-align:center">
+            <input type="button" onclick="myFunction('main')" value="LEAVE THE GRAVEYARD" />
+            <input type="button" onclick="myFunction('path')" value="FOLLOW THE LIGHT" />
+        </div>
+    </div>
+    <div id="path" style="display:none;">
+        <p>You follow down the path, the light a little bit ahead of you. From the shadows emerges a towering structure, and you stop to look at it. Do you go inside? </p>
+        <img src="https://i.pinimg.com/originals/91/9c/d8/919cd822f9c604d9cbcade5f269cb68d.jpg" alt="house" width="500" height="400">
+        <div style="text-align:center">
+            <input type="button" onclick="myFunction('house')" value="YES" />
+            <input type="button" onclick="myFunction('main')" value="FLEE" />
+        </div>
+    </div>
+    <div id="house" style="display:none; text-align: center;">
+        <p>You open the door and to your surprise, you find to your surprise: </p>
+        <img src="https://cdn-ds.com/blogs-media/sites/57/2019/09/02114521/Happy-Halloween-2019_A3_b.jpg" alt="halloween" width="300" height="150">
+        <p>And all the ACM-W members emerge from the shadows with an enormous cake! It's party time on a very scary halloween.</p>
+        <img src="https://i.pinimg.com/originals/89/9a/18/899a18c0bf840d373ff3a821b8f68bb5.jpg" alt="cake" width="200" height="400">
+        <div style="text-align:center">
+            <input type="button" onclick="myFunction('main')" value="THE END" />
+        </div>
+    </div>
+    
+</body>
+<script>
+ function myFunction(id) {
+
+     var graveyard = document.getElementById("graveyard");
+     graveyard.style.display = (id=='graveyard') ? 'block' : 'none';
+
+     var main = document.getElementById("main");
+     main.style.display = (id=='main') ? 'block': 'none';
+
+     var path = document.getElementById("path");
+     path.style.display = (id == 'path') ? 'block' : 'none';
+
+     var house = document.getElementById("house");
+     house.style.display = (id == 'house') ? 'block' : 'none';
+}
+</script>
+</html>
