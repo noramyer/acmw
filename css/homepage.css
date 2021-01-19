@@ -149,9 +149,20 @@ section.data h2 {
   position: center !important;
 }
 
-#carouselExampleIndicators{
-  color: #0c5460;
+.carousel-control-next,
+.carousel-control-prev {
+  filter: invert(100%);
 }
+
+.carousel .carousel-indicators li {
+  background-color: #fff;
+  background-color: rgba(70, 70, 70, 0.25);
+}
+
+.carousel .carousel-indicators .active {
+  background-color: #ba9ae0;
+}
+
 #mainNav {
   padding-top: 1rem;
   padding-bottom: 1rem;

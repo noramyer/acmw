@@ -20,13 +20,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="32a8a7de-ae2c-4524-b988-e551b6a60adc" name="Default Changelist" comment="Modified photo section of code i/o">
-      <change afterPath="$PROJECT_DIR$/img/mentorship/bhavya&amp;spurthi.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/mentorship/jing.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/mentorship/milly.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mentorship.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/mentorship/IMPORTANT DATES.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/mentorship/SP21-mentorship-ad.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/mentorship/bhavya.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/mentorship/kicking.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/mentorship/milly.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/mentorship/ohio.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/mentorship/ohio2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/mentorship/sara.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/mentorship/sp21-bit-challenge-dates.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/homepage.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/homepage.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/events.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/events.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/mentorship/bhavya&amp;spurthi.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/mentorship/jing.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/mentorship/jing.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/mentorship/milly.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mentorship.html" beforeDir="false" afterPath="$PROJECT_DIR$/mentorship.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,18 +81,18 @@
     <key name="OPEN_URL_DIALOG">
       <recent name="http://https://github.com/smiskus/smiskus.github.io.git" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\bhavy\IdeaProjects\acmwosu.github.io\img" />
+      <recent name="C:\Users\Sara\IdeaProjects\acmwosu.github.io\files" />
+      <recent name="C:\Users\Sara\IdeaProjects\acmwosu.github.io\img\resource" />
+      <recent name="C:\Users\Sara\IdeaProjects\acmwosu.github.io\img\pics2019" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\bhavy\IdeaProjects\acmwosu.github.io\img\mentorship" />
       <recent name="C:\Users\bhavy\IdeaProjects\acmwosu.github.io\img\logos" />
       <recent name="C:\Users\bhavy\IdeaProjects\acmwosu.github.io\img" />
       <recent name="C:\Users\bhavy\IdeaProjects\acmwosu.github.io\files" />
       <recent name="C:\Users\bhavy\IdeaProjects\acmwosu.github.io" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\bhavy\IdeaProjects\acmwosu.github.io\img" />
-      <recent name="C:\Users\Sara\IdeaProjects\acmwosu.github.io\files" />
-      <recent name="C:\Users\Sara\IdeaProjects\acmwosu.github.io\img\resource" />
-      <recent name="C:\Users\Sara\IdeaProjects\acmwosu.github.io\img\pics2019" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -180,7 +188,8 @@
       <workItem from="1606724857681" duration="203000" />
       <workItem from="1610238842182" duration="897000" />
       <workItem from="1610430648529" duration="4219000" />
-      <workItem from="1610647285886" duration="302000" />
+      <workItem from="1610647285886" duration="1022000" />
+      <workItem from="1611077865187" duration="4592000" />
     </task>
     <task id="LOCAL-00001" summary="Modified photo section of code i/o">
       <created>1552523027264</created>
