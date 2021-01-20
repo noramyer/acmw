@@ -1,5 +1,18 @@
 [
   {
+    "name":"#IAmRemarkable Workshop",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"January 27th",
+    "date":"January 27 2021",
+    "time":"7:00 PM - 8:30 PM\n",
+    "location":"Meeting ID: 955 3720 6192 Password: 220214",
+    "location_url":"",
+    "desc":"ACM-W is connecting with OHI/O to gather club alumni and host a Q&A!",
+    "rsvp":"Click here to be redirected to the zoom event!",
+    "rsvp_link":"https://osu.zoom.us/j/95537206192?pwd=OWVMbVhoUmpNc1krYkJzMWZwYmxodz09"
+  },
+  {
     "name":"Spring Kickoff",
     "title_url":"",
     "link_type": 0,

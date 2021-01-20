@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32a8a7de-ae2c-4524-b988-e551b6a60adc" name="Default Changelist" comment="Modified photo section of code i/o" />
+    <list default="true" id="32a8a7de-ae2c-4524-b988-e551b6a60adc" name="Default Changelist" comment="Modified photo section of code i/o">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mentorship.html" beforeDir="false" afterPath="$PROJECT_DIR$/mentorship.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -174,6 +177,7 @@
       <workItem from="1610430648529" duration="4219000" />
       <workItem from="1610647285886" duration="1022000" />
       <workItem from="1611077865187" duration="9326000" />
+      <workItem from="1611096756251" duration="93000" />
     </task>
     <task id="LOCAL-00001" summary="Modified photo section of code i/o">
       <created>1552523027264</created>
