@@ -20,8 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="32a8a7de-ae2c-4524-b988-e551b6a60adc" name="Default Changelist" comment="Modified photo section of code i/o">
+      <change afterPath="$PROJECT_DIR$/img/logos/Target-Logo.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeio.html" beforeDir="false" afterPath="$PROJECT_DIR$/codeio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sponsorship.html" beforeDir="false" afterPath="$PROJECT_DIR$/sponsorship.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +56,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552524991039" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="HTML" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/img/mentorship" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img/logos" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -183,7 +184,8 @@
       <workItem from="1612198914027" duration="973000" />
       <workItem from="1612798610916" duration="268000" />
       <workItem from="1613174559818" duration="401000" />
-      <workItem from="1613403513844" duration="303000" />
+      <workItem from="1613403513844" duration="560000" />
+      <workItem from="1613932912179" duration="300000" />
     </task>
     <task id="LOCAL-00001" summary="Modified photo section of code i/o">
       <created>1552523027264</created>
