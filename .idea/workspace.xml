@@ -20,9 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="32a8a7de-ae2c-4524-b988-e551b6a60adc" name="Default Changelist" comment="Modified photo section of code i/o">
-      <change afterPath="$PROJECT_DIR$/img/logos/Target-Logo.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sponsorship.html" beforeDir="false" afterPath="$PROJECT_DIR$/sponsorship.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,18 +67,18 @@
     <key name="OPEN_URL_DIALOG">
       <recent name="http://https://github.com/smiskus/smiskus.github.io.git" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\bhavy\IdeaProjects\acmwosu.github.io\img\mentorship" />
-      <recent name="C:\Users\bhavy\IdeaProjects\acmwosu.github.io\mentorship_projects" />
-      <recent name="C:\Users\bhavy\IdeaProjects\acmwosu.github.io\img\logos" />
-      <recent name="C:\Users\bhavy\IdeaProjects\acmwosu.github.io\img" />
-      <recent name="C:\Users\bhavy\IdeaProjects\acmwosu.github.io\files" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\bhavy\IdeaProjects\acmwosu.github.io\img" />
       <recent name="C:\Users\Sara\IdeaProjects\acmwosu.github.io\files" />
       <recent name="C:\Users\Sara\IdeaProjects\acmwosu.github.io\img\resource" />
       <recent name="C:\Users\Sara\IdeaProjects\acmwosu.github.io\img\pics2019" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\bhavy\IdeaProjects\acmwosu.github.io\img\logos" />
+      <recent name="C:\Users\bhavy\IdeaProjects\acmwosu.github.io\img\mentorship" />
+      <recent name="C:\Users\bhavy\IdeaProjects\acmwosu.github.io\mentorship_projects" />
+      <recent name="C:\Users\bhavy\IdeaProjects\acmwosu.github.io\img" />
+      <recent name="C:\Users\bhavy\IdeaProjects\acmwosu.github.io\files" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -185,7 +183,7 @@
       <workItem from="1612798610916" duration="268000" />
       <workItem from="1613174559818" duration="401000" />
       <workItem from="1613403513844" duration="560000" />
-      <workItem from="1613932912179" duration="300000" />
+      <workItem from="1613932912179" duration="919000" />
     </task>
     <task id="LOCAL-00001" summary="Modified photo section of code i/o">
       <created>1552523027264</created>
