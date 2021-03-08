@@ -19,7 +19,18 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32a8a7de-ae2c-4524-b988-e551b6a60adc" name="Default Changelist" comment="Modified photo section of code i/o" />
+    <list default="true" id="32a8a7de-ae2c-4524-b988-e551b6a60adc" name="Default Changelist" comment="Modified photo section of code i/o">
+      <change afterPath="$PROJECT_DIR$/img/outreach/Cosmic Storm - Randall Dunkin, North Adams High School.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/outreach/David Battagani, John Sells Middle School.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/outreach/Screen Shot 2021-03-03 at 10.00.14 AM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/outreach/Screen Shot 2021-03-03 at 10.04.37 AM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/outreach/Screen Shot 2021-03-03 at 9.47.41 AM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/outreach/Screen Shot 2021-03-03 at 9.51.07 AM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/outreach/Screen Shot 2021-03-03 at 9.53.13 AM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/outreach/Screen Shot 2021-03-03 at 9.58.59 AM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outreach.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,7 +63,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552524991039" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="HTML" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/img/logos" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img/outreach" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -65,18 +76,18 @@
     <key name="OPEN_URL_DIALOG">
       <recent name="http://https://github.com/smiskus/smiskus.github.io.git" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\bhavy\IdeaProjects\acmwosu.github.io\img\outreach" />
+      <recent name="C:\Users\bhavy\IdeaProjects\acmwosu.github.io\img\logos" />
+      <recent name="C:\Users\bhavy\IdeaProjects\acmwosu.github.io\img\mentorship" />
+      <recent name="C:\Users\bhavy\IdeaProjects\acmwosu.github.io\mentorship_projects" />
+      <recent name="C:\Users\bhavy\IdeaProjects\acmwosu.github.io\img" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\bhavy\IdeaProjects\acmwosu.github.io\img" />
       <recent name="C:\Users\Sara\IdeaProjects\acmwosu.github.io\files" />
       <recent name="C:\Users\Sara\IdeaProjects\acmwosu.github.io\img\resource" />
       <recent name="C:\Users\Sara\IdeaProjects\acmwosu.github.io\img\pics2019" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\bhavy\IdeaProjects\acmwosu.github.io\img\logos" />
-      <recent name="C:\Users\bhavy\IdeaProjects\acmwosu.github.io\img\mentorship" />
-      <recent name="C:\Users\bhavy\IdeaProjects\acmwosu.github.io\mentorship_projects" />
-      <recent name="C:\Users\bhavy\IdeaProjects\acmwosu.github.io\img" />
-      <recent name="C:\Users\bhavy\IdeaProjects\acmwosu.github.io\files" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -184,6 +195,7 @@
       <workItem from="1613932912179" duration="919000" />
       <workItem from="1614370739499" duration="691000" />
       <workItem from="1614640037534" duration="743000" />
+      <workItem from="1615221202135" duration="3102000" />
     </task>
     <task id="LOCAL-00001" summary="Modified photo section of code i/o">
       <created>1552523027264</created>
