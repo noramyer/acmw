@@ -1,5 +1,18 @@
 [
   {
+    "name":"ArchE Week Trivia",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"April 8th",
+    "date":"April 8 2021",
+    "time":"7:00 PM\n",
+    "location":"Meeting ID: 996 9608 9978 Password: acmw",
+    "location_url":"",
+    "desc":"Join ACM-W’s Trivia Night for ArchE week! Join individually or in a team for one round of trivia or all three. The winning team of each round will get a prize for each member. Prizes are Bluetooth Speakers, Instax Cameras, and Gaming Headsets!",
+    "rsvp":"Click here to be redirected to the zoom event!",
+    "rsvp_link":"https://osu.zoom.us/j/99696089978?pwd=bXBxZE41b1ZMbDJWbzdJQ0lRT1ZzQT09"
+  },
+  {
     "name":"ACMW/SWE GitHub Workshop",
     "title_url":"",
     "link_type": 0,
