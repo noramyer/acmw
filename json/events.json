@@ -1,5 +1,18 @@
 [
   {
+    "name":"Postman API Workshop",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"April 14th",
+    "date":"April 14 2021",
+    "time":"7:00 PM\n",
+    "location":"Meeting ID: 996 9608 9978 Password: acmw",
+    "location_url":"",
+    "desc":"Learn the basics of APIs in this hands-on 101 session with Postman. Get direct experience working with APIs and Postman, an industry-standard tool.",
+    "rsvp":"Click here to be redirected to the zoom event!",
+    "rsvp_link":"https://osu.zoom.us/j/99696089978?pwd=bXBxZE41b1ZMbDJWbzdJQ0lRT1ZzQT09"
+  },
+  {
     "name":"ArchE Week Trivia",
     "title_url":"",
     "link_type": 0,
