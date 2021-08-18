@@ -1,5 +1,31 @@
 [
   {
+    "name":"Involvement Fair",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"August 22nd",
+    "date":"August 22, 2021",
+    "time":"4:00 - 7:00 PM\n",
+    "location":"Academic College area of involvement fair, near Paige Hall. Southeast corner of The Oval.",
+    "location_url":"",
+    "desc":"Come chat with Exec Board Members, learn more about ACM-W, and join the club!",
+    "rsvp":"",
+    "rsvp_link":""
+  },
+  {
+    "name":"Ice Cream Social",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"August 25th",
+    "date":"August 25, 2021",
+    "time":"6:00 - 7:00 PM\n",
+    "location":"By the Numbers behind Dreese",
+    "location_url":"",
+    "desc":"Enjoy free ice cream and chat with ACM-W members in our first social of the year.",
+    "rsvp":"",
+    "rsvp_link":""
+  },
+  {
     "name":"Postman API Workshop",
     "title_url":"",
     "link_type": 0,
