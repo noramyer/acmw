@@ -13,19 +13,6 @@
     "rsvp_link":""
   },
   {
-    "name":"Ice Cream Social",
-    "title_url":"",
-    "link_type": 0,
-    "date_string":"August 25th",
-    "date":"August 25, 2021",
-    "time":"6:00 - 7:00 PM\n",
-    "location":"By the Numbers behind Dreese",
-    "location_url":"",
-    "desc":"Enjoy free ice cream and chat with ACM-W members in our first social of the year.",
-    "rsvp":"",
-    "rsvp_link":""
-  },
-  {
     "name":"Postman API Workshop",
     "title_url":"",
     "link_type": 0,
@@ -37,6 +24,19 @@
     "desc":"Learn the basics of APIs in this hands-on 101 session with Postman. Get direct experience working with APIs and Postman, an industry-standard tool.",
     "rsvp":"Click here to be redirected to the zoom event!",
     "rsvp_link":"https://osu.zoom.us/j/99696089978?pwd=bXBxZE41b1ZMbDJWbzdJQ0lRT1ZzQT09"
+  },
+  {
+    "name":"Ice Cream Social",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"August 25th",
+    "date":"August 25, 2021",
+    "time":"6:00 - 7:00 PM\n",
+    "location":"By the Numbers behind Dreese",
+    "location_url":"",
+    "desc":"Enjoy free ice cream and chat with ACM-W members in our first social of the year.",
+    "rsvp":"",
+    "rsvp_link":""
   },
   {
     "name":"ArchE Week Trivia",
