@@ -1,14 +1,27 @@
 [
   {
-    "name":"Involvement Fair",
+    "name":"Interview Tips with Accenture",
     "title_url":"",
     "link_type": 0,
-    "date_string":"August 22nd",
-    "date":"August 22, 2021",
-    "time":"4:00 - 7:00 PM\n",
-    "location":"Academic College area of involvement fair, near Paige Hall. Southeast corner of The Oval.",
+    "date_string":"September 8th",
+    "date":"September 8, 2021",
+    "time":"7:00 - 8:00 PM\n",
+    "location":"Meeting ID: 996 9608 9978 Password: acmw",
     "location_url":"",
-    "desc":"Come chat with Exec Board Members, learn more about ACM-W, and join the club!",
+    "desc":"Learn from a Fortune 500 company on how to pass your next technical or behavorial interview while seeing what internship or full-time opportunties Accenture has to offer!",
+    "rsvp":"Click here to be redirected to the zoom event!",
+    "rsvp_link":"https://osu.zoom.us/j/96054090728?pwd=em4wVm1KT1BZLzVUMm94bW9SUGpxZz09"
+  },
+  {
+    "name":"Fall Kickoff",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"September 1st",
+    "date":"September 1, 2021",
+    "time":"7:00 - 8:00 PM\n",
+    "location":"Room E0125 in Scott Labs",
+    "location_url":"",
+    "desc":"Join ACM-W for our Fall Kickoff event and start autumn off right. There will be raffles for Jeni's Splendid Ice Cream. Hang out, eat snack, and have fun!",
     "rsvp":"",
     "rsvp_link":""
   },
@@ -22,6 +35,19 @@
     "location":"By the Numbers behind Dreese",
     "location_url":"",
     "desc":"Enjoy free ice cream and chat with ACM-W members in our first social of the year.",
+    "rsvp":"",
+    "rsvp_link":""
+  },
+  {
+    "name":"Involvement Fair",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"August 22nd",
+    "date":"August 22, 2021",
+    "time":"4:00 - 7:00 PM\n",
+    "location":"Academic College area of involvement fair, near Paige Hall. Southeast corner of The Oval.",
+    "location_url":"",
+    "desc":"Come chat with Exec Board Members, learn more about ACM-W, and join the club!",
     "rsvp":"",
     "rsvp_link":""
   },
