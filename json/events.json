@@ -1,5 +1,44 @@
 [
   {
+    "name":"Women at CAT Digital",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"October 27th",
+    "date":"October 27, 2021",
+    "time":"7:00 - 8:00 PM\n",
+    "location":"Meeting ID and password coming soon!",
+    "location_url":"",
+    "desc":"Join a panel of women from CAT Digital and their experiences of working at a male-dominated field and company.",
+    "rsvp":"Click here to be redirected to the zoom event!",
+    "rsvp_link":"https://us04web.zoom.us/j/74842049243?pwd=Q0R4QW15RHhITytuUFBoeUdwUmRhUT09"
+  },
+  {
+    "name":"Eating with Industry",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"September 29th",
+    "date":"September 29, 2021",
+    "time":"6:00 - 8:00 PM\n",
+    "location":"Meeting ID and password coming soon!",
+    "location_url":"",
+    "desc":"Join ACM-W for an exclusive event to network with industry partners. In order to participate, sign up at go.osu.edu/ewi-2021",
+    "rsvp":"Click here to be redirected to the zoom event!",
+    "rsvp_link":""
+  },
+  {
+    "name":"Careers at CapTech",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"September 22nd",
+    "date":"September 22, 2021",
+    "time":"7:00 - 8:00 PM\n",
+    "location":"Dreese Labs 264 or Virtual",
+    "location_url":"",
+    "desc":"Learn about IT Consulting and how to secure a full-time or internship role at CapTech!",
+    "rsvp":"Click here to be redirected to the zoom event!",
+    "rsvp_link":"https://us04web.zoom.us/j/74842049243?pwd=Q0R4QW15RHhITytuUFBoeUdwUmRhUT09"
+  },
+  {
     "name":"Agora Cohort Info Session",
     "title_url":"",
     "link_type": 0,
@@ -8,9 +47,22 @@
     "time":"7:00 - 8:00 PM\n",
     "location":"Meeting ID: 960 5409 0728 Password: 423689",
     "location_url":"",
-    "desc":"LWant to design and code your own video conferencing platform? Come learn about Agora, a Silicon Valley company and their cohort program!",
+    "desc":"Want to design and code your own video conferencing platform? Come learn about Agora, a Silicon Valley company and their cohort program!",
     "rsvp":"Click here to be redirected to the zoom event!",
     "rsvp_link":"https://us04web.zoom.us/j/74842049243?pwd=Q0R4QW15RHhITytuUFBoeUdwUmRhUT09"
+  },
+  {
+    "name":"Mentorship Program Info Session",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"September 13th",
+    "date":"September 13, 2021",
+    "time":"7:00 - 8:00 PM\n",
+    "location":"Dreese Labs 264",
+    "location_url":"",
+    "desc":"Join ACM-W for our Big-Little Bit mentorship program kickoff! Our mentorship program pairs under- and upper-classmen to build relationships and provide support. This event will include an overview of our fall 2021 plans and an opportunity to meet potential bigs / littles. (Attendance is not required to partake in the program but we hope you can make it :) )",
+    "rsvp":"",
+    "rsvp_link":""
   },
   {
     "name":"Interview Tips with Accenture",
