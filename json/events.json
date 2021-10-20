@@ -1,5 +1,31 @@
 [
   {
+    "name":"Fighting Misogyny in Stem and Politics",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"November 17th",
+    "date":"November 17, 2021",
+    "time":"6:00 - 7:30 PM\n",
+    "location":"Page Hall 130",
+    "location_url":"",
+    "desc":"Join IGNITE and ACM-W for the next session in IGNITE’s series: Deconstructing the Patriarchy in Professionalism: Misogyny in STEM and Politics. This event will be a roundtable-style opportunity to discuss the ways in which misogyny impacts the working and learning environments in fields that tend to be white male-dominated.",
+    "rsvp":"",
+    "rsvp_link":""
+  },
+  {
+    "name":"Company: Edge",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"November 3rd",
+    "date":"November 3, 2021",
+    "time":"7:00 - 8:00 PM\n",
+    "location":"Dreese Labs room 264",
+    "location_url":"",
+    "desc":"Event with Edge!",
+    "rsvp":"",
+    "rsvp_link":""
+  },
+  {
     "name":"Women at CAT Digital",
     "title_url":"",
     "link_type": 0,
@@ -11,6 +37,19 @@
     "desc":"Hear from a panel of women about their experiences at CAT Digital in addition to possible internship or full-time opportunities available! Attendees will receive free food. ",
     "rsvp":"Click here to be redirected to the zoom event!",
     "rsvp_link":"https://us04web.zoom.us/j/74842049243?pwd=Q0R4QW15RHhITytuUFBoeUdwUmRhUT09"
+  },
+  {
+    "name":"Coding Interview Workshop",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"October 20th",
+    "date":"October 20, 2021",
+    "time":"7:00 - 8:00 PM\n",
+    "location":"Dreese Labs room 264",
+    "location_url":"",
+    "desc":"Come learn about coding assessments and technical interviews you might encounter when searching an internship or job! This workshop will go over some introductory info, share preparation resources, and include a hands-on problem solving portion.",
+    "rsvp":"",
+    "rsvp_link":""
   },
   {
     "name":"How to Stand Out with Target",
