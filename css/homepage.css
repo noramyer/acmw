@@ -13,13 +13,13 @@ h6 {
 }
 
 .calendar{
-  padding-top: 110px;
+  -top: 110px;
   margin-left: 130px;
 }
 hr.star-light,
 hr.star-dark {
   max-width: 15rem;
-  padding: 0;
+  : 0;
   text-align: center;
   border: none;
   border-top: solid 0.25rem;
@@ -32,7 +32,7 @@ hr.star-dark:after {
   position: relative;
   top: -.8em;
   display: inline-block;
-  padding: 0 0.25em;
+  : 0 0.25em;
   content: '\f005';
   font-family: FontAwesome;
   font-size: 2em;
@@ -57,11 +57,11 @@ hr.star-dark:after {
 }
 
 section {
-  padding: 6rem 0;
+  : 6rem 0;
 }
 
 .how-to-join-section {
-  padding: 2rem 0 6rem;
+  : 2rem 0 6rem;
 }
 
 .how-to-join-img {
@@ -71,11 +71,11 @@ section {
 }
 
 .-section {
-  padding: 3rem;
+  : 3rem;
 }
 
 .how-to-join-section img {
-  padding-right: 40px;
+  -right: 40px;
 }
 
 section h2 {
@@ -90,12 +90,12 @@ section h2 {
   }
 }
 section.masthead {
-  padding-top: calc(6rem + 72px);
-  padding-bottom: 6rem;
+  -top: calc(6rem + 72px);
+  -bottom: 6rem;
 }
 
 section.data {
-  padding: 10px;
+  : 10px;
 }
 
 section.data h2 {
@@ -111,7 +111,7 @@ section.data h2 {
 }
 
 .btn-xl {
-  padding: 1rem 1.75rem;
+  : 1rem 1.75rem;
   font-size: 1.25rem;
 }
 
@@ -164,8 +164,8 @@ section.data h2 {
 }
 
 #mainNav {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
+  -top: 1rem;
+  -bottom: 1rem;
   font-weight: 700;
   font-family: 'Montserrat';
 }
@@ -197,16 +197,16 @@ section.data h2 {
 
 #mainNav .navbar-toggler {
   font-size: 80%;
-  padding: 0.8rem;
+  : 0.8rem;
 }
 
 @media (min-width: 992px) {
   #mainNav {
-    padding-top: 1.5rem;
-    padding-bottom: 1.5rem;
-    -webkit-transition: padding-top 0.3s, padding-bottom 0.3s;
-    -moz-transition: padding-top 0.3s, padding-bottom 0.3s;
-    transition: padding-top 0.3s, padding-bottom 0.3s;
+    -top: 1.5rem;
+    -bottom: 1.5rem;
+    -webkit-transition: -top 0.3s, -bottom 0.3s;
+    -moz-transition: -top 0.3s, -bottom 0.3s;
+    transition: -top 0.3s, -bottom 0.3s;
   }
   #mainNav .navbar-brand {
     font-size: 2em;
@@ -226,8 +226,8 @@ section.data h2 {
     background: #ba9ae0;
   }
   #mainNav.navbar-shrink {
-    padding-top: 0.5rem;
-    padding-bottom: 0.5rem;
+    -top: 0.5rem;
+    -bottom: 0.5rem;
   }
   #mainNav.navbar-shrink .navbar-brand {
     font-size: 1.5em;
@@ -235,12 +235,12 @@ section.data h2 {
 }
 
 header.masthead {
-  padding-top: calc(6rem + 72px);
-  padding-bottom: 6rem;
+  -top: calc(6rem + 72px);
+  -bottom: 6rem;
 }
 
 header.masthead.data {
-  padding-bottom: 1rem;
+  -bottom: 1rem;
 }
 
 header.masthead h1 {
@@ -255,8 +255,8 @@ header.masthead h2 {
 
 @media (min-width: 992px) {
   header.masthead {
-    padding-top: calc(6rem + 106px);
-    padding-bottom: 6rem;
+    -top: calc(6rem + 106px);
+    -bottom: 6rem;
   }
   header.masthead h1 {
     font-size: 3em;
@@ -319,7 +319,7 @@ header.masthead h2 {
 }
 
 .portfolio-modal .portfolio-modal-dialog {
-  padding: 3rem 1rem;
+  : 3rem 1rem;
   min-height: calc(100vh - 2rem);
   margin: 1rem calc(1rem - 8px);
   position: relative;
@@ -346,7 +346,7 @@ header.masthead h2 {
 @media (min-width: 768px) {
   .portfolio-modal .portfolio-modal-dialog {
     min-height: 100vh;
-    padding: 5rem;
+    : 5rem;
     margin: 3rem calc(3rem - 8px);
   }
   .portfolio-modal .portfolio-modal-dialog h2 {
@@ -364,8 +364,8 @@ header.masthead h2 {
   font-size: 1.5em;
   position: relative;
   z-index: 1;
-  padding-right: 0;
-  padding-left: 0;
+  -right: 0;
+  -left: 0;
   resize: none;
   border: none;
   border-radius: 0;
@@ -391,7 +391,7 @@ header.masthead h2 {
 }
 
 .floating-label-form-group:not(:first-child) {
-  padding-left: 14px;
+  -left: 14px;
   border-left: 1px solid #e9ecef;
 }
 
@@ -409,8 +409,8 @@ form .row:first-child .floating-label-form-group {
 }
 
 .footer {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
+  -top: 5rem;
+  -bottom: 5rem;
   background-color: #373738;
   color: #fff;
 }
@@ -480,7 +480,7 @@ a:focus, a:hover, a:active {
 }
 
 .subheader-text {
-  padding: 10px;
+  : 10px;
 }
 .subheader-border {
     margin-bottom: 2rem;
@@ -510,7 +510,7 @@ a:focus, a:hover, a:active {
 
 .d3-caption {
   font-size: 1em;
-  padding: 20px;
+  : 20px;
 }
 
 .data-header {
