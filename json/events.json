@@ -1,5 +1,18 @@
 [
   {
+    "name":"Holiday Social",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"December 1st",
+    "date":"December 1, 2021",
+    "time":"7:00 - 8:00 PM\n",
+    "location":"Dreese Labs 264",
+    "location_url":"",
+    "desc":"Drop in and share a bit of holiday cheer with ACM-W! There will be fun holiday snacks to enjoy while we wrtie cards to children's hospitals and make tie blankets. All majors and genders are welcome!",
+    "rsvp":"",
+    "rsvp_link":""
+  },
+  {
     "name":"Fighting Misogyny in Stem and Politics",
     "title_url":"",
     "link_type": 0,
