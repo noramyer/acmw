@@ -1,5 +1,18 @@
 [
   {
+    "name":"Spotify API Workshop",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"January 19th",
+    "date":"January 19, 2022",
+    "time":"7:00 - 8:00 PM\n",
+    "location":"Zoom ID: 989 8728 1753 Password: acmw",
+    "location_url":"https://osu.zoom.us/j/98987281753?pwd=Y3hOanpJQmIyaWlibEJaVHNBU3FWQT09",
+    "desc":"Learn how to use Spotify's REST API to incorporate Spotify data into your own project! No experience with APIs or web development is necessary - we will cover all of the needed basics during the workshop. ",
+    "rsvp":"",
+    "rsvp_link":""
+  },
+  {
     "name":"Spring Kickoff",
     "title_url":"",
     "link_type": 0,
