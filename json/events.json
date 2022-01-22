@@ -1,5 +1,18 @@
 [
   {
+    "name":"Technology at United Airlines",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"January 26th",
+    "date":"January 26, 2022",
+    "time":"7:00 - 8:00 PM\n",
+    "location":"ID: 924 5759 8139 Password: 698319",
+    "location_url":"https://go.osu.edu/acmw-event",
+    "desc":"Speak with United Airlines to learn about how you could be the one writing the code that will make an airplane fly through their digital technology program! All attendees will receive a Blaze Pizza gift card after the event! ",
+    "rsvp":"",
+    "rsvp_link":""
+  },
+  {
     "name":"Spotify API Workshop",
     "title_url":"",
     "link_type": 0,
