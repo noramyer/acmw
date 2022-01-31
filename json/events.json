@@ -1,5 +1,44 @@
 [
   {
+    "name":"P&G Event",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"February 16th",
+    "date":"February 16, 2022",
+    "time":"7:00 - 8:00 PM\n",
+    "location":"Zoom ID: 924 5759 8139 Password:698319",
+    "location_url":"https://go.osu.edu/acmw-event",
+    "desc":"Learn more about the P&G Company and technology in this event",
+    "rsvp":"",
+    "rsvp_link":""
+  },
+  {
+    "name":"#IamRemarkable Workshop with Google",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"February 9th",
+    "date":"February 9, 2022",
+    "time":"6:30 - 8:00 PM\n",
+    "location":"Google Meet: https://meet.google.com/tdn-kumr-iju",
+    "location_url":"https://meet.google.com/tdn-kumr-iju",
+    "desc":"Feel more confident and empowered after attending this Google initiative where we will celebrate acheivements in the workplace and beyond",
+    "rsvp":"",
+    "rsvp_link":""
+  },
+  {
+    "name":"Prototyping in Swift",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"February 2nd",
+    "date":"February  2, 2022",
+    "time":"7:00 - 8:00 PM\n",
+    "location":"Dreese Labs Room 264",
+    "location_url":"",
+    "desc":"Come join us to learn about the technology used by an Apple engineer and recent Ohio State graduate, Daniel Matar",
+    "rsvp":"",
+    "rsvp_link":""
+  },
+  {
     "name":"Technology at United Airlines",
     "title_url":"",
     "link_type": 0,
