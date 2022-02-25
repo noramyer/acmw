@@ -1,5 +1,31 @@
 [
   {
+    "name":"Happy Hour with IISE/SWE/SHPE/SASE",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"March 4th",
+    "date":"March 4, 2022",
+    "time":"8:00 - 10:00 PM\n",
+    "location":"Ethyl Tank",
+    "location_url":"",
+    "desc":"Tell bouncers that you are there for the engineering club Happy Hour. The event is 18+, hands will be marked for those under 21. Ethyl should be giving out wristbands at the door to everyone who is there for the event.",
+    "rsvp":"",
+    "rsvp_link":""
+  },
+  {
+    "name":"Trivia Night",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"March 2nd",
+    "date":"March 2, 2022",
+    "time":"7:00 - 8:00 PM\n",
+    "location":"Dreese Labs Room 264",
+    "location_url":"",
+    "desc":"Celebrate Women’s History Month with a fun & exciting trivia hosted by ACM-W. We will have pizza and prizes. Hope to see you there and bring your friends!",
+    "rsvp":"",
+    "rsvp_link":""
+  },
+  {
     "name":"P&G Event",
     "title_url":"",
     "link_type": 0,
@@ -32,7 +58,7 @@
     "date_string":"February 2nd",
     "date":"February  2, 2022",
     "time":"7:00 - 8:00 PM\n",
-    "location":"Dreese Labs Room 264",
+    "location":"VIRTUAL",
     "location_url":"",
     "desc":"Come join us to learn about the technology used by an Apple engineer and recent Ohio State graduate, Daniel Matar",
     "rsvp":"",
