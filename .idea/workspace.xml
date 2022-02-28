@@ -193,7 +193,8 @@
       <workItem from="1616719140830" duration="730000" />
       <workItem from="1617641072219" duration="644000" />
       <workItem from="1617894397496" duration="899000" />
-      <workItem from="1620949417975" duration="366000" />
+      <workItem from="1620949417975" duration="1268000" />
+      <workItem from="1646066575044" duration="628000" />
     </task>
     <task id="LOCAL-00001" summary="Modified photo section of code i/o">
       <created>1552523027264</created>
@@ -249,38 +250,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Modified photo section of code i/o" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="402" y="143" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599431997111">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="450" y="251" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1646066615265">
+      <screen x="0" y="0" width="1280" height="672" />
     </state>
-    <state x="402" y="143" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1599431997111" />
-    <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1591923064903">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1591923064903" />
-    <state x="93" y="93" width="1095" height="495" key="DiffContextDialog" timestamp="1591760462790">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="93" y="93" width="1095" height="495" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1591760462790" />
-    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1591761407322">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1591761407322" />
-    <state width="1237" height="135" key="GridCell.Tab.0.bottom" timestamp="1595296172708">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1237" height="135" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1595296172708" />
-    <state width="1237" height="135" key="GridCell.Tab.0.center" timestamp="1595296172706">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1237" height="135" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1595296172706" />
-    <state width="1237" height="135" key="GridCell.Tab.0.left" timestamp="1595296172706">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1237" height="135" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1595296172706" />
-    <state width="1237" height="135" key="GridCell.Tab.0.right" timestamp="1595296172707">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1237" height="135" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1595296172707" />
+    <state x="450" y="251" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.672@0.0.1280.672" timestamp="1646066615265" />
   </component>
   <component name="masterDetails">
     <states>
