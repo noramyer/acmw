@@ -1,5 +1,31 @@
 [
   {
+    "name":"DOI International Day",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"April 2nd",
+    "date":"April 2, 2022",
+    "time":"12:00 - 2:00 PM\n",
+    "location":"Curl Viewpoint",
+    "location_url":"",
+    "desc":"Various DOI orgs are looking to put on the first ever DOI International Day on April 2nd! We are hoping to highlight the various cultures/countries represented in the DOI orgs with infographics, native clothes, and food!! But first, we need your help! If you would like to volunteer to represent your native country, please use this sign up form.",
+    "rsvp":"",
+    "rsvp_link":""
+  },
+  {
+    "name":"Grace Hopper Conference and Exec Board Info Session",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"March 9th",
+    "date":"March 9, 2022",
+    "time":"7:00 - 8:00 PM\n",
+    "location":"Zoom Meeting ID: 961 3190 6374 Password: 50984",
+    "location_url":"https://osu.zoom.us/j/96131906374?pwd=eTlDT21vVURZUk9rUG1vQkk4KzNxQT09",
+    "desc":"Come join us for an overview of the Grace Hopper Celebration and how to qualify for an ACM-W scholarship. We will also be going over ACM-W executive board positions and how to apply for available positions.",
+    "rsvp":"",
+    "rsvp_link":""
+  },
+  {
     "name":"Trivia Night",
     "title_url":"",
     "link_type": 0,
