@@ -1,14 +1,27 @@
 [
   {
-    "name":"DOI International Day",
+    "name":"ArchE Week Trivia",
     "title_url":"",
     "link_type": 0,
-    "date_string":"April 2nd",
-    "date":"April 2, 2022",
-    "time":"12:00 - 2:00 PM\n",
-    "location":"Curl Viewpoint",
+    "date_string":"April 4th",
+    "date":"April 4th, 2022",
+    "time":"7:00 - 8:30 PM\n",
+    "location":"Dreese Labs Room 264",
     "location_url":"",
-    "desc":"Various DOI orgs are looking to put on the first ever DOI International Day on April 2nd! We are hoping to highlight the various cultures/countries represented in the DOI orgs with infographics, native clothes, and food!! But first, we need your help! If you would like to volunteer to represent your native country, please use this sign up form.",
+    "desc":"Join ACM-W for an ArchE Week Trivia Night! Join in a team of 3 or find a team at the event. Teams can win at most one round and will win a prize for each team member. Prizes include Instax cameras, bluetooth speakers, and mini projectors and pizza will be provided! Please RSVP at this link: go.osu.edu/arche-trivia",
+    "rsvp":"go.osu.edu/arche-trivia",
+    "rsvp_link":"go.osu.edu/arche-trivia"
+  },
+  {
+    "name":"Being a Program Manager at Microsoft!",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"March 30th",
+    "date":"March 30th, 2022",
+    "time":"7:00 - 8:00 PM\n",
+    "location":"Zoom Meeting ID: 924 5759 8139 Password: 698319",
+    "location_url":"https://go.osu.edu/acmw-event",
+    "desc":"Learn about being a Program Manager at Microsoft and speak with a previous OSU ACM-W and CSE student!",
     "rsvp":"",
     "rsvp_link":""
   },
