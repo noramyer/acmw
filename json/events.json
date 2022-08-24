@@ -1,5 +1,18 @@
 [
   {
+    "name":"Coffee with Capital One",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"September 21st",
+    "date":"September 21 2022",
+    "time":"10:00 - 11:00 AM\n",
+    "location":"Cielo Cafe",
+    "location_url":"",
+    "desc":"Details coming ASAP",
+    "rsvp":"",
+    "rsvp_link":""
+  }, 
+  {
     "name":"Mental Health in the Workplace with CapTech",
     "title_url":"",
     "link_type": 0,
@@ -24,7 +37,20 @@
     "desc":"Join us to learn about exciting new opportunities our organization has to offer, from career advancements to fun, relaxing socials! Get to know exec members and prospective members for this year! Food will be provided.",
     "rsvp":"",
     "rsvp_link":""
-  }, 
+  },
+  {
+    "name":"P&G Resume Drop",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"August 30th",
+    "date":"August 30 2022",
+    "time":"9:00 AM - 4:00 PM\n",
+    "location":"Caldwell Lab 103",
+    "location_url":"",
+    "desc":"Interested in connecting with P&G? Stop by P&G's Resume Drop to drop off resumes and learn about engineering and technology career opportunities at P&G. Handshake: https://app.joinhandshake.com/emp/events/1085184",
+    "rsvp":"",
+    "rsvp_link":""
+  },  
   {
     "name":"Ice Cream Social",
     "title_url":"",
@@ -43,7 +69,7 @@
     "title_url":"",
     "link_type": 0,
     "date_string":"April 26th",
-    "date":"April 26th 2022",
+    "date":"April 26 2022",
     "time":"11:00 AM - 3:00 PM\n",
     "location":"Curl Viewpoint",
     "location_url":"",
