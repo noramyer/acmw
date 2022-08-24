@@ -1,5 +1,44 @@
 [
   {
+    "name":"Mental Health in the Workplace with CapTech",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"September 7th",
+    "date":"September 7 2022",
+    "time":"6:30 - 7:30 PM\n",
+    "location":"Dreese 264",
+    "location_url":"",
+    "desc":"Join representatives from CapTech Consulting for a discussion on mental well-being in the workplace. Topics will range from normalizing mental health to tips on how to manage stress and maintain self-care. We encourage you to share your experiences during this open conversation! Hosted by ACM-W and open to all students. Pasta, salad, and soft drinks provided.",
+    "rsvp":"",
+    "rsvp_link":""
+  }, 
+  {
+    "name":"Fall Kickoff",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"August 31st",
+    "date":"August 31 2022",
+    "time":"7:00 - 8:00 PM\n",
+    "location":"Dreese 113",
+    "location_url":"",
+    "desc":"Join us to learn about exciting new opportunities our organization has to offer, from career advancements to fun, relaxing socials! Get to know exec members and prospective members for this year! Food will be provided.",
+    "rsvp":"",
+    "rsvp_link":""
+  }, 
+  {
+    "name":"Ice Cream Social",
+    "title_url":"",
+    "link_type": 0,
+    "date_string":"August 24th",
+    "date":"August 24 2022",
+    "time":"7:00 PM - 8:00 PM\n",
+    "location":"Amphitheater by Mirror Lake",
+    "location_url":"",
+    "desc":"Join us this Wednesday August 24th for our first social of the year! Get to know new and returning members of ACM-W, network with fellow women in computing. Ice cream and light refreshments will be provided.",
+    "rsvp":"",
+    "rsvp_link":""
+  },
+  {
     "name":"DOI Study Tables",
     "title_url":"",
     "link_type": 0,
